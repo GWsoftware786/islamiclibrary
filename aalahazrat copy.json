@@ -1,0 +1,2412 @@
+{
+    "data" : {
+        "pdf" : {
+            "Fazail":[
+                      
+                      {
+                      "author" : "Mufti Faiz Ahmed Owaisi",
+                      "pdf_category" : "Fazail",
+                      "pdf_name" : "Zulf Ambareen",
+                      "pdf_pages" : "14",
+                      "pdf_size" : "2.3 MB",
+                      "language" : "Urdu",
+                      "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FZulf-Ambareen.pdf?alt=media&token=d20fcc77-e0ed-489f-abec-4cf5c3dab827",
+                      "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FZulf%20Ambareen.jpg?alt=media&token=12a5d68d-5681-467a-a6b4-a939f9822c7b"
+                      },
+                      {
+                      "author" : "Allama Syed Shah Turab ul Haq Qadri",
+                      "pdf_category" : "Fazail",
+                      "pdf_name" : "Surah e Fatiha Ki Tafseer",
+                      "pdf_pages" : "25",
+                      "pdf_size" : "2.3 MB",
+                      "language" : "Urdu",
+                      "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FSurah-e-Fatiha-Ki-Tafseer.pdf?alt=media&token=c1b60d6f-5a3a-4770-901b-358ad0c56269",
+                      "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FSurah-e-Fatiha-Ki-Tafseer.jpg?alt=media&token=fcd14df3-4c81-4030-be55-c22ae463178f"
+                      },
+                      {
+                      "author" : "Allama Syed Shah Turab ul Haq Qadri",
+                      "pdf_category" : "Fazail",
+                      "pdf_name" : "Fazail e Sahaba wa AhleBait",
+                      "pdf_pages" : "122    ",
+                      "pdf_size" : "2.3 MB",
+                      "language" : "Urdu",
+                      "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FSahaba-wa-AhleBait.pdf?alt=media&token=d7c8940c-17f3-4007-8b05-c625d641e7f7",
+                      "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FSahaba-wa-AhleBait.jpg?alt=media&token=166a2e7c-b2f0-43c1-b180-df0a211e1bc9"
+                      },
+                      {
+                      "author" : "Allama Syed Shah Turab ul Haq Qadri",
+                      "pdf_category" : "Fazail",
+                      "pdf_name" : "Mubarak Ratein",
+                      "pdf_pages" : "58",
+                      "pdf_size" : "2.3 MB",
+                      "language" : "Urdu",
+                      "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FMubarak-Ratein.pdf?alt=media&token=a35d4788-c507-4bde-a9d8-22417eae5ab2",
+                      "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FMubarak-Ratein.jpg?alt=media&token=8e44e7e5-2335-4396-8565-a5fe0be0c6a2"
+                      },
+                      {
+                      "author" : "Alahazrat Imam Ahmed Raza Khan",
+                      "pdf_category" : "Fazail",
+                      "pdf_name" : "Hadaiq e Bakhshish",
+                      "pdf_pages" : "302",
+                      "pdf_size" : "21.0 MB",
+                      "language" : "Urdu",
+                      "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FHadaiq-e-Bakhshish.pdf?alt=media&token=721f0167-d761-41a7-a684-a0085136f667",
+                      "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FHadaiq-e-Bakhshish.jpg?alt=media&token=49204291-366c-4462-9272-e60a713cf5a8"
+                      }
+                      ],
+            "Aqaid":[
+                     {
+                     "author" : "Allama Arshad ul Qadri",
+                     "pdf_category" : "Aqaid",
+                     "pdf_name" : "Zalzala",
+                     "pdf_pages" : "127",
+                     "pdf_size" : "2.3 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FZalzala.pdf?alt=media&token=bd7c1178-657a-4996-be2d-16a67dea3e83",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FZalzala.jpg?alt=media&token=b8ad2eff-a848-458a-9426-c1e2d365b687"
+                     },
+                     {
+                     "author" : "Mufti Faiz Ahmed Owaisi",
+                     "pdf_category" : "Aqaid",
+                     "pdf_name" : "Teray Dushman Se Kia Rishta Hamara Ya Rasoolallah",
+                     "pdf_pages" : "67",
+                     "pdf_size" : "9.8 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FTeray-Dushman-Se-Kia-Rishta-Hamara-Ya-Rasoolallah.pdf?alt=media&token=b4c1e31e-5438-42e8-b10c-37c737e680d9",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FTeray%20Dushman%20Se%20Kia%20Rishta%20Hamara%20Ya%20Rasoolallah.jpg?alt=media&token=4f208bab-9c08-4a80-b479-8060c4fc0917"
+                     },
+                     {
+                     "author" : "Allama Arshad ul Qadri",
+                     "pdf_category" : "Aqaid",
+                     "pdf_name" : "Tableegi Jamat",
+                     "pdf_pages" : "16",
+                     "pdf_size" : "9.8 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FTableegi-Jamat.pdf?alt=media&token=12fdab71-a719-47ab-ad75-c46653b9c4d0",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FTableegi-Jamat.jpg?alt=media&token=1795ea78-8460-4ec0-9fd1-b9366bba90de"
+                     },
+                     {
+                     "author" : "Mufti Faiz Ahmed Owaisi",
+                     "pdf_category" : "Aqaid",
+                     "pdf_name" : "Shiya Ka Aqeeda e Imamat",
+                     "pdf_pages" : "10",
+                     "pdf_size" : "1.3 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FShiya-Ka-Aqeeda-e-Imamat.pdf?alt=media&token=a8b31299-4498-4852-9a7d-24638ce2ce6c",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FShiya-Ka-Aqeeda-e-Imamat.jpg?alt=media&token=0af494ce-2de3-46b2-9991-13bd46e0cece"
+                     },
+                     
+                     {
+                     "author" : "Allama Arshad ul Qadri",
+                     "pdf_category" : "Aqaid",
+                     "pdf_name" : "Shariat",
+                     "pdf_pages" : "41",
+                     "pdf_size" : "4.3 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FShariat.pdf?alt=media&token=2047bd69-8829-4de8-89b2-f02477b67a5c",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FShariat.jpg?alt=media&token=b9897546-1d01-4a22-9485-b2e1cdd5a062"
+                     },
+                     {
+                     "author" : "Allama Mufti Faiz Ahmed Owaisi",
+                     "pdf_category" : "Aqaid",
+                     "pdf_name" : "12 Rabiul Awal Ki Haqiqat",
+                     "pdf_pages" : "24",
+                     "pdf_size" : "4.1 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2F12-Rabiul-Awal-Ki-Haqiqat.pdf?alt=media&token=bd87826a-2e55-4e72-9ec8-28faea4377be",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2F12-Rabiul-Awal-Ki-Haqiqat.jpg?alt=media&token=87ffe0bf-1480-450c-af15-3f77a7e29e1c"
+                     }
+                     
+                     ],
+            
+            "Zakat":[
+                     {
+                     "author" : "Mufti Muhammad Waqaruddin",
+                     "pdf_category" : "Zakat",
+                     "pdf_name" : "Zakat Ki Ahmiat",
+                     "pdf_pages" : "20",
+                     "pdf_size" : "2.0 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FZakat-Ki-Ahmiat.pdf?alt=media&token=2572a666-8da1-4d89-bec6-57e756787d10",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FZakat%20Ki%20Ahmiat.jpg?alt=media&token=d8540bf8-d31a-4bac-b17b-70c4f06c310e"
+                     }
+                     ],
+            
+            "Mutafariq":[
+                         {
+                         "author" : "Mufti Faiz Ahmed Owaisi",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Yazeed Kay Ghazi",
+                         "pdf_pages" : "18",
+                         "pdf_size" : "3.4 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FYazeed-Kay-Ghazi.pdf?alt=media&token=92f9449e-34f0-46e9-b75b-81c7b2b28bfd",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FYazeed%20Kay%20Ghazi.jpg?alt=media&token=9897b0ff-91ec-40e5-9479-a3240d3f44cb"
+                         },
+                         {
+                         "author" : "Mufti Faiz Ahmed Owaisi",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Yajuj Majuj",
+                         "pdf_pages" : "17",
+                         "pdf_size" : "2.4 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FYajuj-Majuj.pdf?alt=media&token=3218d0d4-8f00-4f79-ae37-adf2fca2a1da",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FYajuj%20Majuj.jpg?alt=media&token=8fa06308-1f08-4742-b91f-237fadc91bac"
+                         },
+                         {
+                         "author" : "Alahazrat Imam Ahmed Raza Khan",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Wasaya Shareef",
+                         "pdf_pages" : "56",
+                         "pdf_size" : "5.0 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FWasaya-Shareef.pdf?alt=media&token=2df0b724-e7aa-4d7e-8eb5-fe6f441b17ac",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FWasaya-Shareef.jpg?alt=media&token=3024f6ed-00d1-4e58-8e15-f306adee3736"
+                         },
+                         {
+                         "author" : "Alahazrat Imam Ahmed Raza Khan",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Tareef Per Inam",
+                         "pdf_pages" : "8",
+                         "pdf_size" : "0.7 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FTareef-Per-Inam.pdf?alt=media&token=93b42ef0-c50c-49aa-b9de-adf21c333a58",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FTareef-Per-Inam.jpg?alt=media&token=5e0a77ec-46cf-4052-9d2d-79236051204d"
+                         },
+                         {
+                         "author" : "Alahazrat Imam Ahmed Raza Khan",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Taisar ul Maaon",
+                         "pdf_pages" : "47",
+                         "pdf_size" : "4.5 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FTaisar-ul-Maaon.pdf?alt=media&token=aacb37da-03d5-429e-b41f-5bd89b5d3454",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FTaisar-ul-Maaon.jpg?alt=media&token=6efd2b54-65c0-4292-8164-89de763c08dd"
+                         },
+                         {
+                         "author" : "Allama Shahzad Qadri Turabi",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Siraat ul Abrar",
+                         "pdf_pages" : "61",
+                         "pdf_size" : "4.5 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FSiraat-ul-Abrar.pdf?alt=media&token=aa96634e-b39b-4c51-8902-5687cb513240",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FSiraat-ul-Abrar.jpg?alt=media&token=e96aa64f-43c5-4034-a55b-64611c1da5bc"
+                         },
+                         
+                         {
+                         "author" : "Alahazrat Imam Ahmed Raza Khan",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Shariat o Tareeqat",
+                         "pdf_pages" : "33",
+                         "pdf_size" : "4.4 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FShariat-o-Tareeqat.pdf?alt=media&token=644d70ed-fc67-477c-8632-6fb9cf389ffb",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FShariat-o-Tareeqat.jpg?alt=media&token=6fca9736-5dd8-43e9-b74e-27f39ba2f922"
+                         },
+                         
+                         {
+                         "author" : "Mufti Faiz Ahmed Owaisi",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Sharah Hadees Qustuntunia",
+                         "pdf_pages" : "22",
+                         "pdf_size" : "3.4 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FSharah-Hadees-Qustuntunia.pdf?alt=media&token=ca38d0bc-db1d-4999-aebb-7d2f66887ca4",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FSharah-Hadees-Qustuntunia.jpg?alt=media&token=218a670e-2c63-47ea-8c7d-1039a83aa0cc"
+                         },
+                         {
+                         "author" : "Muhammmad Irfan Saqib Qadri",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Shadi Ka Anmol Tohfa",
+                         "pdf_pages" : "41",
+                         "pdf_size" : "3.5 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FShadi-Ka-Anmol-Tohfa.pdf?alt=media&token=7c5a83fd-1a6b-4e95-8905-963fe1111401",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FShadi-Ka-Anmol-Tohfa.jpg?alt=media&token=70263a2a-5f7c-427b-be91-de5ba3dd644e"
+                         },
+                         {
+                         "author" : "Mufti Faiz Ahmed Owaisi",
+                         "pdf_category" : "Mutafariq",
+                         "pdf_name" : "Qurani Ayaat Me Mukaalma",
+                         "pdf_pages" : "30",
+                         "pdf_size" : "3.8 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FQurani-Ayaat-Me-Mukaalma.pdf?alt=media&token=bf610e24-7f18-40b0-b564-7458bc71f4ce",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FQurani-Ayaat-Me-Mukaalma.jpg?alt=media&token=bd34ed1c-03fb-46f1-a10b-75cd3f479148"
+                         }
+                         
+                         ],
+            "Fiqah":[
+                     {
+                     "author" : "Mufti Faiz Ahmed Owaisi",
+                     "pdf_category" : "Fiqah",
+                     "pdf_name" : "Urs Ka Saboot",
+                     "pdf_pages" : "32",
+                     "pdf_size" : "5.0 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FUrs-Ka-Saboot.pdf?alt=media&token=736cc224-126f-4d29-83d8-5ea89d82a612",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FUrs-Ka-Saboot.jpg?alt=media&token=c414d5ed-c600-4759-9edb-fc477366d55c"
+                     },
+                     {
+                     "author" : "Allama Shafi Okarvi",
+                     "pdf_category" : "Fiqah",
+                     "pdf_name" : "Talaq e Salasa (3 Talaq)",
+                     "pdf_pages" : "33",
+                     "pdf_size" : "3.7 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FTalaq-e-Salasa.pdf?alt=media&token=e9a7e463-16f5-4119-a8af-eb71af7995f3",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FTalaq-e-Salasa.jpg?alt=media&token=5b0dbfca-bb5f-42a6-bc2c-d9ae64fb9d89"
+                     },
+                     {
+                     "author" : "Mufti Akhtar Raza Khan",
+                     "pdf_category" : "Fiqah",
+                     "pdf_name" : "Taai Ka Masla",
+                     "pdf_pages" : "48",
+                     "pdf_size" : "5.4 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FTaai-Ka-Masla.pdf?alt=media&token=ac4362cb-6736-486a-b3dd-3eabe71ed177",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FTaai-Ka-Masla.jpg?alt=media&token=bb61d858-67a1-4ed3-99d1-db0c4a694639"
+                     },
+                     {
+                     "author" : "Mufti Faiz Ahmed Owaisi",
+                     "pdf_category" : "Fiqah",
+                     "pdf_name" : "Photo Aur Video Ki Tehqeeq",
+                     "pdf_pages" : "18",
+                     "pdf_size" : "3.2 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FPhoto-Aur-Video-Ki-Tehqeeq.pdf?alt=media&token=300dec3a-2153-45b2-aadc-450a661e1c60",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FPhoto-Aur-Video-Ki-Tehqeeq.jpg?alt=media&token=823ae149-1ed4-485d-89cf-a1674af710d0"
+                     },
+                     {
+                     "author" : "Muhammad Sardar Ahmed Qadri",
+                     "pdf_category" : "Fiqah",
+                     "pdf_name" : "20 Rakaat Taraveeh",
+                     "pdf_pages" : "16",
+                     "pdf_size" : "3.2 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2F20-Rakaat-Taraveeh.pdf?alt=media&token=d2b22f5d-5d0c-4e19-96f3-64081dddeb9e",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2F20-Rakaat-Taraveeh.jpg?alt=media&token=b4b09568-1b6c-4c0e-8c25-ee531a0b25f3"
+                     },
+                     {
+                     "author" : "Mufti Faiz Ahmed Owaisi",
+                     "pdf_category" : "Fiqah",
+                     "pdf_name" : "Halal Aur Haram Janwar",
+                     "pdf_pages" : "31",
+                     "pdf_size" : "3.2 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FHalal-Aur-Haram-Janwar.pdf?alt=media&token=00dc2033-0db4-415e-9c9a-874672353ec1",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FHalal-Aur-Haram-Janwar.jpg?alt=media&token=d0a5ea57-623d-4d8b-9773-20f41738d6a1"
+                     }
+                     ],
+            
+            "Masail":[
+                      {
+                      "author" : "Allama Syed Shah Turab ul Haq Qadri",
+                      "pdf_category" : "Masail",
+                      "pdf_name" : "Hajj o Umrah Ka Tareeqa wa Masaail",
+                      "pdf_pages" : "49",
+                      "pdf_size" : "3.2 MB",
+                      "language" : "Urdu",
+                      "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FHajj-o-Umrah-Ka-Tareeqa-wa-Masaail.pdf?alt=media&token=d6047acf-2b7f-4707-bf8c-0034aa98f03a",
+                      "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FHajj-o-Umrah-Ka-Tareeqa-wa-Masaail.jpg?alt=media&token=69e21b83-5da1-4d4f-bf84-a25fee520d9f"
+                      }
+                      
+                      
+                      ],
+            
+            "Namaz":[
+                     
+                     {
+                     "author" : "Allama Syed Shah Turab ul Haq Qadri",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "Rasool e Khuda Ki Namaz Detailed",
+                     "pdf_pages" : "101",
+                     "pdf_size" : "16 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FRasool-e-Khuda-Ki-Namaz-Detailed.pdf?alt=media&token=6d599b7a-9d68-43c0-b627-a7e26806e671",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FRasool-e-Khuda-Ki-Namaz-Detailed.jpg?alt=media&token=3e8cd604-aa49-4103-8548-17b1b4828650"
+                     },
+                     {
+                     "author" : "Allama Syed Shah Turab ul Haq Qadri",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "Rasool e Khuda Ki Namaz",
+                     "pdf_pages" : "14",
+                     "pdf_size" : "1.5 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FRasool-e-Khuda-Ki-Namaz.pdf?alt=media&token=737522bc-6b0b-4c41-8b3f-033c749d901c",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FRasool-e-Khuda-Ki-Namaz.jpg?alt=media&token=ea468e56-3ac9-451b-a694-13259fc72a8b"
+                     },
+                     {
+                     "author" : "Allama Syed Shah Turab ul Haq Qadri",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "Namaz Ki Kitab",
+                     "pdf_pages" : "24",
+                     "pdf_size" : "6.5 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FNamaz-Ki-Kitab.pdf?alt=media&token=f91860cf-ee9e-4ee8-b974-ce9e26cbca82",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FNamaz-Ki-Kitab.jpg?alt=media&token=faae6649-83c8-442b-9ab6-f198953bd418"
+                     },
+                     {
+                     "author" : "Ameer-e-Ahl-e-Sunnat",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "islami-behno-ki-namaz",
+                     "pdf_pages" : "332",
+                     "pdf_size" : "4.0 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2Fislami-behno-ki-namaz.pdf?alt=media&token=03e7c984-60c7-429b-958a-6d26ab5de945",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2Fislami-behno-ki-namaz.png?alt=media&token=4be582ea-ba29-4e05-9d58-88838d1bb555"
+                     },
+                     {
+                     "author" : "Ameer-e-Ahl-e-Sunnat",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "namaz-ka-tariqa",
+                     "pdf_pages" : "79",
+                     "pdf_size" : "1.9 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2Fnamaz-ka-tariqa.pdf?alt=media&token=cdacecc8-b4b7-426a-8512-1ac77b753952",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2Fnamaz-ka-tariqa.png?alt=media&token=dc07b6f4-88e0-42bb-bc29-6301d1046322"
+                     },
+                     {
+                     "author" : "Ameer-e-Ahl-e-Sunnat",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "qaza-namazon-ka-tariqa",
+                     "pdf_pages" : "29",
+                     "pdf_size" : "4.2 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2Fqaza-namazon-ka-tariqa.pdf?alt=media&token=ecb37476-c98a-41c1-ae96-674a584b79a4",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2Fqaza-namazon-ka-tariqa.png?alt=media&token=ba6632a5-fa80-41ff-bdfa-2db1c71e42e9"
+                     },
+                     {
+                     "author" : "Ameer-e-Ahl-e-Sunnat",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "Method-of-funeral-salah",
+                     "pdf_pages" : "27",
+                     "pdf_size" : "570 KB",
+                     "language" : "English",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/english_pdf%2Fmethod-of-funeral-salah.pdf?alt=media&token=27cf9b96-355c-4d75-8add-20612f282a44",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_english_thumbs%2Fmethod-of-funeral-salah.png?alt=media&token=f1f8f172-8358-4090-a30a-178de1c66c1b"
+                     },
+                     {
+                     "author" : "Ameer-e-Ahl-e-Sunnat",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "Method-of-ghusl",
+                     "pdf_pages" : "38",
+                     "pdf_size" : "520 KB",
+                     "language" : "English",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/english_pdf%2Fmethod-of-ghusl-hanafi.pdf?alt=media&token=cdff7f43-4111-482d-8a5b-b55c7d347b09",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_english_thumbs%2Fmethod-of-ghusl-hanafi.png?alt=media&token=25dcb12d-899e-4d80-8ce2-0aef41717650"
+                     },
+                     {
+                     "author" : "Ameer-e-Ahl-e-Sunnat",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "Method-of-salah",
+                     "pdf_pages" : "98",
+                     "pdf_size" : "870 KB",
+                     "language" : "English",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/english_pdf%2Fmethod-of-salah-hanafi.pdf?alt=media&token=25f10720-204e-4055-b4c4-bb9fef68f8a6",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_english_thumbs%2Fmethod-of-salah-hanafi.png?alt=media&token=1d9acb7c-0a92-459a-a84d-b9837e9b98a5"
+                     },
+                     {
+                     "author" : "Ameer-e-Ahl-e-Sunnat",
+                     "pdf_category" : "Namaz",
+                     "pdf_name" : "Method-of-missed-salah",
+                     "pdf_pages" : "35",
+                     "pdf_size" : "860 KB",
+                     "language" : "English",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/english_pdf%2Fmethod-of-missed-salah-hanafi.pdf?alt=media&token=cef530d6-6c66-4777-a7ea-0e3d7c1e1c8e",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_english_thumbs%2Fmethod-of-missed-salah-hanafi.png?alt=media&token=8e109898-7637-4d7b-97fb-fe4a14ab5a7a"
+                     }
+                     ],
+            
+            "Shaksiyat":[
+                         {
+                         "author" : " Mufti Faiz Ahmed Owaisi",
+                         "pdf_category" : "Shaksiyat",
+                         "pdf_name" : "Sawaneh e Ghaus e Azam",
+                         "pdf_pages" : "36",
+                         "pdf_size" : "6.0 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FSawaneh-e-Ghaus-e-Azam.pdf?alt=media&token=36444535-c4e2-4d56-af3f-5c2b0cfd5c2d",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FSawaneh-e-Ghaus-e-Azam.jpg?alt=media&token=29c2ee0d-eaee-4202-8678-46059c98b1ac"
+                         },
+                         {
+                         "author" : "  Allama Syed Shah Turab ul Haq Qadri",
+                         "pdf_category" : "Shaksiyat",
+                         "pdf_name" : "Shahadat e Imam e Hussain",
+                         "pdf_pages" : "11",
+                         "pdf_size" : "1.0 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FShahadat-e-Imam-e-Hussain.pdf?alt=media&token=65b15842-89f4-4900-a676-20f88eebfb88",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FShahadat-e-Imam-e-Hussain.jpg?alt=media&token=06a98f7e-5f56-47e7-b9ab-f502322b192f"
+                         },
+                         {
+                         "author" : "  Allama Syed Shah Turab ul Haq Qadri",
+                         "pdf_category" : "Shaksiyat",
+                         "pdf_name" : "Imam e Azam",
+                         "pdf_pages" : "139",
+                         "pdf_size" : "23 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FImam-e-Azam.pdf?alt=media&token=e4dc1dea-ecad-4339-ad8d-391bcafa8c12",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FImam-e-Azam.jpg?alt=media&token=ab1c77aa-8084-4a17-aef1-f2c5d8f05f2b"
+                         },
+                         {
+                         "author" : "Mufti Faiz Ahmed Owaisi",
+                         "pdf_category" : "Shaksiyat",
+                         "pdf_name" : "Huzur Kay Maa Baap Momin Thay",
+                         "pdf_pages" : "25",
+                         "pdf_size" : "4.5 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FHuzur-Alehe-Salam-Kay-Maa-Baap-Momin-Thay.pdf?alt=media&token=41ddab5b-3077-4374-93cb-d68b26f2412e",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FHuzur-Alehe-Salam-Kay-Maa-Baap-Momin-Thay.jpg?alt=media&token=b42fc71e-fa36-4bee-99ba-addc9ff16e74"
+                         },
+                         {
+                         "author" : " Maulana Mustafa Raza Khan",
+                         "pdf_category" : "Shaksiyat",
+                         "pdf_name" : "Malfoozat e Alahazrat",
+                         "pdf_pages" : "232",
+                         "pdf_size" : "35 MB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FMalfoozat-e-Alahazrat.pdf?alt=media&token=037b4729-e9cc-4968-b9a2-063c5cfb6822",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FMalfoozat-e-Alahazrat.jpg?alt=media&token=198ea36e-3f9b-4f02-9c0d-4406ac918a77"
+                         }
+                         ],
+            "Khutba":[
+                      
+                      {
+                      "author" : "Alahazrat Imam Ahmed Raza Khan",
+                      "pdf_category" : "Khutba",
+                      "pdf_name" : "Khutbaat e Razavia",
+                      "pdf_pages" : "32",
+                      "pdf_size" : "4.2 MB",
+                      "language" : "Urdu",
+                      "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FKhutbaat-e-Razavia.pdf?alt=media&token=36e2e591-373c-46cc-a9de-22573161bb84",
+                      "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FKhutbaat-e-Razavia.jpg?alt=media&token=12ebb888-6bc1-472a-9ce8-6ec8218e9c5f"
+                      }
+                      ],
+            "Qaida":[
+                     {
+                     "author" : "Qari Abdul Rehman Shuja Abadi",
+                     "pdf_category" : "Qaida",
+                     "pdf_name" : " Rehmani Qaida",
+                     "pdf_pages" : "23",
+                     "pdf_size" : "2.2 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FRehmani-Qaida.pdf?alt=media&token=e2bf5710-32f7-4292-9cd7-9f784bd7550b",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2FRehmani-Qaida.jpg?alt=media&token=6aa130dc-43e8-4e98-8b50-6f70745a9d24"
+                     },
+                     {
+                     "author" : "Majlis Madrasa Almadinah",
+                     "pdf_category" : "Qaida",
+                     "pdf_name" : "Madani Qaida",
+                     "pdf_pages" : "54",
+                     "pdf_size" : "11 MB",
+                     "language" : "Urdu",
+                     "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2Fmadani-qaida.pdf?alt=media&token=36fbe965-d8eb-4e34-85d6-c4fd568b40fe",
+                     "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2Fmadani-qaida.png?alt=media&token=ab5e6858-df6b-4426-b4a3-2b1c69583f0a"
+                     }
+                     ],
+            "Hajj_Umra":[
+                         
+                         {
+                         "author" : "Ahle Sunnat Ulema",
+                         "pdf_category" : "Hajj_Umra",
+                         "pdf_name" : " Brief-method-of-hajj",
+                         "pdf_pages" : "53",
+                         "pdf_size" : "970 KB",
+                         "language" : "English",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/english_pdf%2Fa-brief-method-of-hajj.pdf?alt=media&token=b940cca1-93d5-4e6c-8e9d-9a874419a3c6",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_english_thumbs%2Fbrief-method-of-hajj.png?alt=media&token=7d58f5e3-6c66-4937-94c4-6dbce4fd3417"
+                         },
+                         {
+                         "author" : "Ahle Sunnat Ulema",
+                         "pdf_category" : "Hajj_Umra",
+                         "pdf_name" : " Hajj-o-Umrah-aik-nazar-main",
+                         "pdf_pages" : "8",
+                         "pdf_size" : "5.0 KB",
+                         "language" : "Urdu",
+                         "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_books%2FHajj-o-Umrah-Ka-Tareeqa-wa-Masaail.pdf?alt=media&token=d6047acf-2b7f-4707-bf8c-0034aa98f03a",
+                         "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/pdf_book_thumbs%2Fhajj-o-umrah-aik-nazar-main.png?alt=media&token=c67e5f01-cef1-4b35-9720-a763df69e06e"
+                         }
+                         
+                         ],
+            
+            
+            
+            
+            "calendar":[
+                        {
+                        "author" : "Ummul Qura System",
+                        "pdf_category" : "calender",
+                        "category1":"more",
+                        "pdf_name" : "Islamic calendar 2020",
+                        "pdf_pages" : "8",
+                        "pdf_size" : "270 KB",
+                        "language" : "Urdu_English",
+                        "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/calender%2Fglobal-islamic-calendar-year-2020-ce.pdf?alt=media&token=42b6b3f7-2d28-47fd-90b7-451b8c3de42a",
+                        "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/calendar_thumbs%2Fglobal-islamic-calendar-year-2020-ce.png?alt=media&token=4a3ce23c-39a8-417f-9630-821a86e7abf9"
+                        }
+                        
+                        
+                        ],
+            "Surah Yaseen":[
+                            {
+                            "author" : "NA",
+                            "pdf_category" : "Surah Yaseen",
+                            "category1":"more",
+                            "pdf_name" : "Surah Yaseen",
+                            "pdf_pages" : "14",
+                            "pdf_size" : "2.5 MB",
+                            "language" : "Urdu",
+                            "pdf_url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/other_pdfs%2FS%20Yaseen.pdf?alt=media&token=4e676dca-dd7f-42e8-86a5-6eb8152f20d0",
+                            "pdf_thumb" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/other_pdf_thumbs%2FS%20Yaseen.png?alt=media&token=70b86d8e-d496-4bde-b242-f4e1bdec38d5"
+                            }
+                            
+                            
+                            ]
+            
+            
+            
+            
+            
+        },
+        "quran" : [
+                   
+                   {
+                   "para_name" : "Alaf Lam Meem",
+                   "para_number" : "1",
+                   "pdf_pages" : "21",
+                   "para_size" : "2.5 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara01.pdf?alt=media&token=4ac3c414-f703-42c0-9ec7-609175c4a0c0",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(1).jpg?alt=media&token=9e0bacdb-60f8-43f1-b3e0-d92576ef4a84"
+                   },
+                   
+                   {
+                   "para_name" : "Sayaqool",
+                   "para_number" : "2",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.0 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara02.pdf?alt=media&token=2df24a28-7f31-4629-a802-a9e19058d9e4",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(2).jpg?alt=media&token=76aa13c6-4308-4ebc-a4eb-c2a2a2cad7c4"
+                   },
+                   
+                   {
+                   "para_name" : "Tilkal Rusull",
+                   "para_number" : "3",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.1 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara03.pdf?alt=media&token=04542aec-86f9-4e64-aa32-36ea4e7febfb",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(3).jpg?alt=media&token=72fc3048-651a-497f-8691-d8e434d77e53"
+                   },
+                   {
+                   "para_name" : "Lan Tana Loo",
+                   "para_number" : "4",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.1 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara04.pdf?alt=media&token=8b8e816a-6e71-4387-ae41-a0609f4ebbf5",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(4).jpg?alt=media&token=529ddfda-8617-4cc7-9649-a1b08b19f668"
+                   },
+                   
+                   {
+                   "para_name" : "Wal Mohsanat",
+                   "para_number" : "5",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara05.pdf?alt=media&token=ee7a36c4-34dc-4424-8c84-ea520c97573b",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(5).jpg?alt=media&token=a187945f-1871-4f95-b573-8c147f9aec6c"
+                   },
+                   
+                   {
+                   "para_name" : "La Yuhibbullah",
+                   "para_number" : "6",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara06.pdf?alt=media&token=a5f43cb9-3647-4a39-8d89-764848c29425",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(6).jpg?alt=media&token=d5454f6d-78e4-48ee-b12b-110eb85a07be"
+                   },
+                   
+                   {
+                   "para_name" : "Wa Iza Samiu",
+                   "para_number" : "7",
+                   "pdf_pages" : "21",
+                   "para_size" : "2.3 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara07.pdf?alt=media&token=979e6669-e31a-4c48-88cd-9e24e8ba7231",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(7).jpg?alt=media&token=fd828320-4b45-435c-83e5-afc1d2ff5ad2"
+                   },
+                   
+                   {
+                   "para_name" : "Wa Lau Annana",
+                   "para_number" : "8",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara08.pdf?alt=media&token=1198410e-dc18-4e59-ad35-0bcd850e4746",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(8).jpg?alt=media&token=f9c8c1be-4814-4bb6-aba1-83c74c5ab2bf"
+                   },
+                   
+                   
+                   
+                   
+                   {
+                   "para_name" : "Qalal Malao",
+                   "para_number" : "9",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.0 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara09.pdf?alt=media&token=ebf75ee9-638e-431d-989b-261768e66949",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(9).jpg?alt=media&token=bb2f9998-4157-4533-a86a-04d5aed4040d"
+                   },
+                   
+                   {
+                   "para_name" : "Wa A'lamu",
+                   "para_number" : "10",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.1 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara10.pdf?alt=media&token=607ca447-6d47-45b6-90c9-73ef267a7767",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(10).jpg?alt=media&token=63322f62-287d-4879-9be9-f92d72935213"
+                   },
+                   
+                   {
+                   "para_name" : "Yatazeroon",
+                   "para_number" : "11",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.1 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara11.pdf?alt=media&token=6f5325f6-05e6-4b76-953c-d1c91ee0d084",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(11).jpg?alt=media&token=83874502-8479-4fe3-91e0-1e2fbb5916fe"
+                   },
+                   
+                   {
+                   "para_name" : "Wa Mamin Da'abat",
+                   "para_number" : "12",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara12.pdf?alt=media&token=41e72082-4c72-4eb9-b936-8311c94a3ff2",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(12).jpg?alt=media&token=d746936b-8489-4f68-b7cd-fc8b02966591"
+                   },
+                   
+                   {
+                   "para_name" : "Wa Ma Ubrioo",
+                   "para_number" : "13",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara13.pdf?alt=media&token=e47e4f94-0c07-43d6-a081-89ae7cc83d37",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(13).jpg?alt=media&token=96fda033-203d-48bd-8d3e-bd919d229607"
+                   },
+                   
+                   {
+                   "para_name" : "Rubama",
+                   "para_number" : "14",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara14.pdf?alt=media&token=3191a12f-368c-4e01-9394-8ba6a7f59057",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(14).jpg?alt=media&token=fd769311-5522-4aed-b924-0cde615af31c"
+                   },
+                   
+                   {
+                   "para_name" : "Subhanallazi",
+                   "para_number" : "15",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara15.pdf?alt=media&token=2bae7152-45a3-4f51-aacd-da8eaea2836e",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(15).jpg?alt=media&token=7c363db8-eb4c-4085-b30e-95bbfacb3ff5"
+                   },
+                   
+                   {
+                   "para_name" : "Qal Alam",
+                   "para_number" : "16",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara16.pdf?alt=media&token=5e9c8e67-b0eb-4b0a-b75c-f86ac0bf4bdf",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(16).jpg?alt=media&token=af5bd0ec-5a71-40c8-a89a-eaf2c8e2c893"
+                   },
+                   
+                   {
+                   "para_name" : "Aqtarabo",
+                   "para_number" : "17",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara17.pdf?alt=media&token=977afced-d0c2-4ce5-84e8-cd67a3973ba7",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(17).jpg?alt=media&token=e0d80b58-2cf0-4793-a465-10cb9a270778"
+                   },
+                   
+                   {
+                   "para_name" : "Qadd Aflaha",
+                   "para_number" : "18",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara18.pdf?alt=media&token=cee9e0b8-dd1d-4d88-80c1-cd548cafbcc9",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(18).jpg?alt=media&token=10c7a397-d59d-4820-b2cf-ba55a6763e9c"
+                   },
+                   
+                   {
+                   "para_name" : "Wa Qalallazina",
+                   "para_number" : "19",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.3 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara19.pdf?alt=media&token=1ef9efef-c58a-4d45-b960-452204e42646",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(19).jpg?alt=media&token=07502a63-e11d-4f05-be5c-b651decfa559"
+                   },
+                   {
+                   "para_name" : "A'man Khalaq",
+                   "para_number" : "20",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara20.pdf?alt=media&token=9586cbfa-ad34-4c49-bc0f-40332526cbff",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(20).jpg?alt=media&token=b8ce3547-4fe3-460d-b9ce-a4cdbafe5a53"
+                   },
+                   
+                   {
+                   "para_name" : "Utlu Ma Oohi",
+                   "para_number" : "21",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara21.pdf?alt=media&token=83db3fd9-7595-4afa-a492-8fd9e3a5d8f1",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(21).jpg?alt=media&token=aa3295d3-a794-465a-86db-0c97fc266719"
+                   },
+                   
+                   {
+                   "para_name" : "Wa Manyaqnut",
+                   "para_number" : "22",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara22.pdf?alt=media&token=7b49c57c-9e35-405c-9cf7-ace1c6d760bf",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(22).jpg?alt=media&token=eb852154-354f-4d5c-ae07-cc5a08c2a5b8"
+                   },
+                   
+                   {
+                   "para_name" : "Wa Mali",
+                   "para_number" : "23",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara23.pdf?alt=media&token=f9fcf729-8808-4760-abe2-3f9eda88a3d2",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(23).jpg?alt=media&token=db81f7a1-0629-41e7-b367-965554db175e"
+                   },
+                   
+                   {
+                   "para_name" : "Faman Azlam",
+                   "para_number" : "24",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.2 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara24.pdf?alt=media&token=a9a01534-87e6-4de2-8acf-abbcc6e0d97e",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(24).jpg?alt=media&token=6af29d3e-d815-4a09-8f6c-1348207eb508"
+                   },
+                   
+                   {
+                   "para_name" : "Elahe Yuruddo",
+                   "para_number" : "25",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.3 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara25.pdf?alt=media&token=d34bf080-49e0-46b2-a8f2-97a482bdf520",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(25).jpg?alt=media&token=24a66f63-30df-4cf7-8515-4d77dac5c60e"
+                   },
+                   
+                   {
+                   "para_name" : "Ha'a Meem",
+                   "para_number" : "26",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.3 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara26.pdf?alt=media&token=2205e2d9-e315-44c9-a21d-ac52365bfae5",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(26).jpg?alt=media&token=a6448b46-3002-4e9d-8f47-4684818a7df4"
+                   },
+                   
+                   {
+                   "para_name" : "Qala Fama Khatbukum",
+                   "para_number" : "27",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.3 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara27.pdf?alt=media&token=120d21f3-fefe-43cc-98d2-992fead3cc54",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(27).jpg?alt=media&token=2e43cdd1-5f17-492d-a06b-91af84c92dbc"
+                   },
+                   
+                   {
+                   "para_name" : "Qadd Sami Allah",
+                   "para_number" : "28",
+                   "pdf_pages" : "20",
+                   "para_size" : "2.3 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara28.pdf?alt=media&token=18d77dc2-e5f8-4bd1-b18d-410522feadb8",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(28).jpg?alt=media&token=abbdbbe1-fb22-4d4a-975a-ff1f18714bbe"
+                   },
+                   
+                   {
+                   "para_name" : "Tabarakallazi",
+                   "para_number" : "29",
+                   "pdf_pages" : "24",
+                   "para_size" : "2.6 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara29.pdf?alt=media&token=b185da72-d4ac-4481-b825-7747025749f1",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(29).jpg?alt=media&token=5b9cd206-09fa-4206-b8e4-4aac7f73675f"
+                   },
+                   {
+                   "para_name" : "Amma Yatasa'aloon",
+                   "para_number" : "30",
+                   "pdf_pages" : "25",
+                   "para_size" : "2.7 MB",
+                   "language" : "Arabic",
+                   "pdf_category" : "Quran",
+                   "author" : "NA",
+                   "downloadIrl" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdfs%2Fpara30.pdf?alt=media&token=acf80b70-80eb-4030-b425-d7e594c966ee",
+                   "thumbImage" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/quran_pdf_thumbs%2F01%20(30).jpg?alt=media&token=b04f467e-1688-4784-a65f-6e049892aab5"
+                   }
+                   
+                   
+                   ],
+        
+        "hamaraislam": {
+            "Volume-1": [
+                         {
+                         "name" : "Islaami AqeedonKa Khulasa",
+                         "duration" : "08:16",
+                         "size" : "2 MB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-01-IslaamiAqeedonKaKhulasa.mp3?alt=media&token=3e52aa7a-7eef-4e60-bb09-a7742c921b7f"
+                         },
+                         {
+                         "name" : "Islaam Ki Tareef",
+                         "duration" : "01:04",
+                         "size" : "250 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-02-IslaamKiTareef.mp3?alt=media&token=af93f44e-dad6-4a43-8d0d-2c4975c49117"
+                         },
+                         {
+                         "name" : "Imaan Aur Kufr",
+                         "duration" : "03:18",
+                         "size" : "790 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-03-ImaanAurKufr.mp3?alt=media&token=94979520-9707-484d-93be-14a69a750c71"
+                         },
+                         {
+                         "name" : "Jannat Ka Bayaan",
+                         "duration" : "01:55",
+                         "size" : "760 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-04-JannatKaBayaan.mp3?alt=media&token=20c8716a-ca43-417d-b31c-21e43e16469f"
+                         },
+                         {
+                         "name" : "Dozakh Ka Bayaan",
+                         "duration" : "02:25",
+                         "size" : "570 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-05-DozakhKaBayaan.mp3?alt=media&token=87beac39-68ef-49a6-ae63-79e89f2e8954"
+                         },
+                         {
+                         "name" : "PyaareNabi Ki Pyaari Batein",
+                         "duration" : "08:55",
+                         "size" : "2.0 MB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-06-PyaareNabiKiPyaariBatein.mp3?alt=media&token=8997a978-3524-4ca0-86ac-6201092a1041"
+                         },
+                         {
+                         "name" : "QuraneMajeed",
+                         "duration" : "04:22",
+                         "size" : "1.0 MB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-07-QuraneMajeed.mp3?alt=media&token=08c8f701-e483-4218-90e8-4b3b0af81ccc"
+                         },
+                         {
+                         "name" : "Namaaz Ki Fazilat",
+                         "duration" : "02:57",
+                         "size" : "700 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-08-NamaazKiFazilat.mp3?alt=media&token=9dd4fea4-2cc8-47cc-b00d-cfc2be2b60c9"
+                         },
+                         {
+                         "name" : "Namaaz Ke Waqton Ka Bayaan",
+                         "duration" : "01:30",
+                         "size" : "350 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-09-NamaazKeWaqtonKaBayaan.mp3?alt=media&token=818460e7-6494-49c9-9688-acb7e39dfb46"
+                         },
+                         {
+                         "name" : "Namaaz Ki Rakatein",
+                         "duration" : "02:23",
+                         "size" : "570 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-10-NamaazKiRakatein.mp3?alt=media&token=eb21fcd4-f5a6-44ff-85db-e2b1f9def831"
+                         },
+                         {
+                         "name" : "Azaan Ka Bayaan",
+                         "duration" : "05:50",
+                         "size" : "1.4 MB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-11-AzaanKaBayaan.mp3?alt=media&token=de3c489f-ed2f-41cf-91a1-836741395bda"
+                         },
+                         {
+                         "name" : "Iqamat Ka Bayaan",
+                         "duration" : "02:12",
+                         "size" : "527 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-12-IqamatKaBayaan.mp3?alt=media&token=7665a7f3-0ea7-453c-a882-c33a7707ef18"
+                         },
+                         {
+                         "name" : "Wuzu Ka Bayaan",
+                         "duration" : "03:51",
+                         "size" : "920 KB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-13-WuzuKaBayaan.mp3?alt=media&token=b6138117-c5b8-4f5c-bd0a-faf4b201fea8"
+                         },
+                         {
+                         "name" : "Namaaz Ke Alfaaz",
+                         "duration" : "09:47",
+                         "size" : "2.4 MB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-14-NamaazKeAlfaaz.mp3?alt=media&token=31e5c163-22d8-49ec-a705-5cbe35ebe904"
+                         },
+                         {
+                         "name" : "Namaaz PadhneKa MasnoonTariqa",
+                         "duration" : "05:53",
+                         "size" : "1.4 MB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-15-NamaazPadhneKaMasnoonTariqa.mp3?alt=media&token=7203fffc-4cc3-437a-b5d1-61d1441ad5f4"
+                         },
+                         {
+                         "name" : "Achi Achi Duaein",
+                         "duration" : "05:04",
+                         "size" : "1.2 MB",
+                         "id" : "1",
+                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-1%2F1-16-AchiAchiDuaein.mp3?alt=media&token=34defba8-be3c-419a-a293-ed7fa40fe079"
+                         }
+                         
+                         ],
+            "Volume-2":[
+                        
+                        {
+                        "name" : "Deene Islam",
+                        "duration" : "08:29",
+                        "size" : "325 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-01-DeeneIslam.mp3?alt=media&token=a244ab95-d24d-4de4-ab3e-5a2f355891bd"
+                        },
+                        {
+                        "name" : "Hamara Khuda",
+                        "duration" : "03:51",
+                        "size" : "920 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-02-HamaraKhuda.mp3?alt=media&token=2a11016f-fc23-496b-a0e9-0237b461d8a5"
+                        },
+                        {
+                        "name" : "Farishtey",
+                        "duration" : "03:39",
+                        "size" : "870 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-03-Farishtey.mp3?alt=media&token=eab94923-045e-4999-976f-eacd00ae8983"
+                        },
+                        {
+                        "name" : "Aasmani Kitabein",
+                        "duration" : "01:01",
+                        "size" : "440 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-04-AasmaniKitabein.mp3?alt=media&token=d9da7ecf-6960-4d56-bd61-7abfe81f28f2"
+                        },
+                        {
+                        "name" : "Khuda Ke Rasool Aur Nabi",
+                        "duration" : "07:17",
+                        "size" : "1.7 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-05-KhudaKeRasoolAurNabi.mp3?alt=media&token=a12ecb2b-7ba9-40a7-927a-1af5bf28396a"
+                        },
+                        {
+                        "name" : "Syedul Ambiya",
+                        "duration" : "02:53",
+                        "size" : "690 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-06-SyedulAmbiya.mp3?alt=media&token=ff6f48b5-de67-439c-9798-1f8d922661b8"
+                        },
+                        {
+                        "name" : "Naat",
+                        "duration" : "05:34",
+                        "size" : "1.3 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-07-Naat.mp3?alt=media&token=21b3ff68-e04f-4c67-8780-519f1b7efb76"
+                        },
+                        {
+                        "name" : "Qayamat Ka Bayaan",
+                        "duration" : "03:47",
+                        "size" : "900 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-08-QayamatKaBayaan.mp3?alt=media&token=a2c4752d-604a-41de-974b-1c41c8c683c3"
+                        },
+                        {
+                        "name" : "Taqdeer Ka Bayaan",
+                        "duration" : "00:59",
+                        "size" : "230 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-09-TaqdeerKaBayaan.mp3?alt=media&token=029c8c29-9556-4e34-aec1-d3ebc71b664f"
+                        },
+                        {
+                        "name" : "Maut Aur Qabr Ka Bayaan",
+                        "duration" : "06:32",
+                        "size" : "1.6 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-10-MautAurQabrKaBayaan.mp3?alt=media&token=1bd569be-5385-4d26-84cd-ed9277bfe64d"
+                        },
+                        {
+                        "name" : "Marne Ke Baad Dobara ZindaHona",
+                        "duration" : "04:42",
+                        "size" : "1.1 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-11-MarneKeBaadDobaraZindaHona.mp3?alt=media&token=d678dc2f-373f-46af-8347-3c47df1dc7a4"
+                        },
+                        {
+                        "name" : "Namaaz Ki Ahmiyat",
+                        "duration" : "02:58",
+                        "size" : "700 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-12-NamaazKiAhmiyat.mp3?alt=media&token=daa675fc-a9f1-43d0-af8c-c5dc692b8b6f"
+                        },
+                        {
+                        "name" : "Namaaz Ki SharteAwwal-Taharat",
+                        "duration" : "04:50",
+                        "size" : "1.2 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-13-NamaazKiSharteAwwal-Taharat.mp3?alt=media&token=0e910490-a1ac-4c2e-b4b6-7abe6fdf813d"
+                        },
+                        {
+                        "name" : "Wuzu Ka Bayaan",
+                        "duration" : "05:43",
+                        "size" : "1.4 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-14-WuzuKaBayaan.mp3?alt=media&token=5ac35509-21a7-403b-8973-40257755036e"
+                        },
+                        {
+                        "name" : "Gusl Ka Bayaan",
+                        "duration" : "03:11",
+                        "size" : "760 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-15-GuslKaBayaan.mp3?alt=media&token=75efd762-6011-456d-9971-3a15fc14b7ea"
+                        },
+                        {
+                        "name" : "Paani Ka Bayaan",
+                        "duration" : "04:37",
+                        "size" : "1.1 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-16-PaaniKaBayaan.mp3?alt=media&token=c864632a-62c6-4365-a2af-a75f412d1c07"
+                        },
+                        {
+                        "name" : "Kunwe Ka Bayaan",
+                        "duration" : "04:38",
+                        "size" : "1.1 MB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-17-KunweKaBayaan.mp3?alt=media&token=bd958e24-e6dd-44c0-b659-55c7ed819f4d"
+                        },
+                        {
+                        "name" : "Istenjey Ka Bayaan",
+                        "duration" : "03:54",
+                        "size" : "930 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-18-IstenjeyKaBayaan.mp3?alt=media&token=bb95b070-78d8-46fd-9337-3769c23c778f"
+                        },
+                        {
+                        "name" : "Pyaare Nabi Ki Pyaari Batein",
+                        "duration" : "02:52",
+                        "size" : "680 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-19-PyaareNabiKiPyaariBatein.mp3?alt=media&token=68d6fed7-c26f-4162-b5a3-23b9184779a9"
+                        },
+                        {
+                        "name" : "AchiAchi Duaein",
+                        "duration" : "02:30",
+                        "size" : "600 KB",
+                        "id" : "2",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-2%2F2-20-AchiAchiDuaein.mp3?alt=media&token=37aae841-e2ba-42b9-b011-d71289e1a2cb"
+                        }
+                        
+                        ],
+            "Volume-3":[
+                        {
+                        "name" : "Hamd",
+                        "duration" : "03:23",
+                        "size" : "800 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-01-Hamd.mp3?alt=media&token=c96f9be4-5e2a-4edd-bbb1-1dea29c9ef7e"
+                        },
+                        {
+                        "name" : "Tawheed",
+                        "duration" : "07:49",
+                        "size" : "1.9 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-02-Tawheed.mp3?alt=media&token=b51246a3-3f85-4356-ae90-e1f7ba566cd8"
+                        },
+                        {
+                        "name" : "Malaaeka",
+                        "duration" : "03:19",
+                        "size" : "790 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-03-Malaaeka.mp3?alt=media&token=76347d8c-128e-45c8-a5c6-c4ba7571053b"
+                        },
+                        {
+                        "name" : "Kutube Samawi",
+                        "duration" : "04:39",
+                        "size" : "1.1 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-04-KutubeSamawi.mp3?alt=media&token=41db75a0-12a6-4abb-87ee-097e62cd95eb"
+                        },
+                        {
+                        "name" : "Ambiyaa Aur Mursaleen",
+                        "duration" : "03:47",
+                        "size" : "900 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-05-AmbiyaaAurMursaleen.mp3?alt=media&token=83ca40dd-e6f8-4810-a480-090567872820"
+                        },
+                        {
+                        "name" : "Khatemun Nabiyeen",
+                        "duration" : "08:31",
+                        "size" : "2 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-06-KhatemunNabiyeen.mp3?alt=media&token=f6957e4b-1f9c-4949-aa7e-d982f7ebef95"
+                        },
+                        {
+                        "name" : "Naat Shareef",
+                        "duration" : "06:27",
+                        "size" : "1.5 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-07-NaatShareef.mp3?alt=media&token=2e6ea291-4b6a-4426-9915-e69be5e1b91b"
+                        },
+                        {
+                        "name" : "Sahaaba Keraam",
+                        "duration" : "06:37",
+                        "size" : "1.6 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-08-SahaabaKeraam.mp3?alt=media&token=29e3dd92-6a09-48aa-84f9-0d9a5bd5386a"
+                        },
+                        {
+                        "name" : "AhleBaite Keraam",
+                        "duration" : "08:28",
+                        "size" : "2 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-09-AhleBaiteKeraam.mp3?alt=media&token=604b9bf1-01e5-493f-b362-c365b29662ee"
+                        },
+                        {
+                        "name" : "Auliya Allah",
+                        "duration" : "03:54",
+                        "size" : "930 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-10-AuliyaAllah.mp3?alt=media&token=89e3b113-d3bc-48d0-8f62-fd45297221d5"
+                        },
+                        {
+                        "name" : "Mojezey Aur Karamatein",
+                        "duration" : "02:23",
+                        "size" : "570 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-11-MojezeyAurKaramatein.mp3?alt=media&token=9d1e41a2-9f53-40c2-a552-1a028520c5f7"
+                        },
+                        {
+                        "name" : "Wuzu Ke Baqia Masael",
+                        "duration" : "05:46",
+                        "size" : "1.4 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-12-WuzuKeBaqiaMasael.mp3?alt=media&token=bfd891c9-d4ae-4d3c-9271-c463ddfef4d2"
+                        },
+                        {
+                        "name" : "Ghusl Ke Baqia Masael",
+                        "duration" : "03:39",
+                        "size" : "870 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-13-GhuslKeBaqiaMasael.mp3?alt=media&token=5a562842-f40f-4863-94ae-b2232d55f552"
+                        },
+                        {
+                        "name" : "Napaaki Door Karne Ka Tariqa",
+                        "duration" : "03:30",
+                        "size" : "840 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-14-NapaakiDoorKarneKaTariqa.mp3?alt=media&token=2720cae7-5a93-45d1-a2a0-92b51ebf0520"
+                        },
+                        {
+                        "name" : "Tayamum Ka Bayaan",
+                        "duration" : "09:38",
+                        "size" : "2.3 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-15-TayamumKaBayaan.mp3?alt=media&token=48d4ba46-8de4-4edb-9100-27f1f05a988f"
+                        },
+                        {
+                        "name" : "Namaaz Ki Sharton Ka Bayaan",
+                        "duration" : "02:29",
+                        "size" : "590 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-16-NamaazKiShartonKaBayaan.mp3?alt=media&token=3c59044f-ca45-4a2b-9247-da0190dede88"
+                        },
+                        {
+                        "name" : "Satre AuratKa Bayaan",
+                        "duration" : "03:32",
+                        "size" : "840 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-17-SatreAuratKaBayaan.mp3?alt=media&token=721eb603-e39e-48c8-90a9-aea34f1f7268"
+                        },
+                        {
+                        "name" : "Istaqbaale Qibla",
+                        "duration" : "02:04",
+                        "size" : "490 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-18-IstaqbaaleQibla.mp3?alt=media&token=f12c2223-c9a9-4b44-96f7-cb362f5cd9e3"
+                        },
+                        {
+                        "name" : "Waqt Ka Bayaan",
+                        "duration" : "06:47",
+                        "size" : "1.6 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-19-WaqtKaBayaan.mp3?alt=media&token=c4bef0aa-33f2-4988-abf4-b1479345b91d"
+                        },
+                        {
+                        "name" : "Niyyat Ka Bayaan",
+                        "duration" : "02:20",
+                        "size" : "550 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-20-NiyyatKaBayaan.mp3?alt=media&token=0d3f9ff2-cfbe-49a2-a9c0-c2d45dfce18e"
+                        },
+                        {
+                        "name" : "Arkaane Namaaz Ka Bayaan",
+                        "duration" : "14:03",
+                        "size" : "3.4 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-21-ArkaaneNamaazKaBayaan.mp3?alt=media&token=6ca10386-ad2a-4396-9620-854a86a58b87"
+                        },
+                        {
+                        "name" : "Namaaz Ke Wajibat Aur Sunan Aur Mustahibbat",
+                        "duration" : "09:58",
+                        "size" : "2.4 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-22-NamaazKeWajibatAurSunanAurMustahibbat.mp3?alt=media&token=d7303982-ec70-406a-b3aa-7a72e52540e3"
+                        },
+                        {
+                        "name" : "Namaz Padhne Ka Masnoon Tariqa",
+                        "duration" : "04:49",
+                        "size" : "1.2 MB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-23-NamazPadhneKaMasnoonTariqa.mp3?alt=media&token=b5451e8b-63f8-47d2-aeb8-62c8e8615078"
+                        },
+                        {
+                        "name" : "Pyaare Nabi Ki Pyaari Batein",
+                        "duration" : "03:04",
+                        "size" : "730 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-24-PyaareNabiKiPyaariBatein.mp3?alt=media&token=f5ce3be4-4e13-4f34-85e7-4543c174ddef"
+                        },
+                        {
+                        "name" : "Achi Achi Duaein",
+                        "duration" : "04:00",
+                        "size" : "950 KB",
+                        "id" : "3",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume3%2F3-25-AchiAchiDuaein.mp3?alt=media&token=98297cd0-2908-4c60-92ed-6ee28ed0495d"
+                        }
+                        ],
+            "Volume-4":[
+                        
+                        {
+                        "name" : "Hamd",
+                        "duration" : "03:58",
+                        "size" : "950 KB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-01-Hamd.mp3?alt=media&token=39cfc82f-c9ae-43c9-9523-88dbba03f4f8"
+                        },
+                        {
+                        "name" : "Zaat-o-Sifat-e-Elahi",
+                        "duration" : "11:58",
+                        "size" : "2.9 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-02-Zaat-o-Sifat-e-Elahi.mp3?alt=media&token=485e2ac0-28b3-4d89-b445-f96ebd1539d0"
+                        },
+                        {
+                        "name" : "Aqaaed-Mutaleq-Nubuwwat",
+                        "duration" : "08:21",
+                        "size" : "2.0 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-03-Aqaaed-Mutaleq-Nubuwwat.mp3?alt=media&token=05ef116b-ce9b-49a2-900f-d02253d7ba4d"
+                        },
+                        {
+                        "name" : "Sarwar-e-Kaaenat",
+                        "duration" : "14:45",
+                        "size" : "3.5 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-04-Sarwar-e-Kaaenat.mp3?alt=media&token=bc320584-9263-4776-9e56-72071d24b183"
+                        },
+                        {
+                        "name" : "Naat-Shareef",
+                        "duration" : "06:48",
+                        "size" : "1.5 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-05-Naat-Shareef.mp3?alt=media&token=ecd77a6f-4899-4738-ba97-9912d9bf18cf"
+                        },
+                        {
+                        "name" : "Khulfa-e-Rashideen",
+                        "duration" : "11:49",
+                        "size" : "2.8 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-06-Khulfa-e-Rashideen.mp3?alt=media&token=67453bb2-5c5b-4fc2-8786-92b3a57e3568"
+                        },
+                        {
+                        "name" : "Imaan-Aur-Kufr",
+                        "duration" : "10:44",
+                        "size" : "2.6 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-07-Imaan-Aur-Kufr.mp3?alt=media&token=0b471499-9f99-4312-8315-9f3af7cc011d"
+                        },
+                        {
+                        "name" : "Bidat-aur-Gunaah-e-Kabeera-o-Sagheera",
+                        "duration" : "10:29",
+                        "size" : "2.5 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-08-Bid'at-aur-Gunaah-e-Kabeera-o-Sagheera.mp3?alt=media&token=8303e1c3-5cb2-4c21-9945-431c8e1aa2c2"
+                        },
+                        {
+                        "name" : "Taqleed-ka-Bayaan",
+                        "duration" : "13:16",
+                        "size" : "3.2 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-09-Taqleed-ka-Bayaan.mp3?alt=media&token=5b255c98-880d-4cd0-b015-4df35d75763e"
+                        },
+                        {
+                        "name" : "Istehaalat-e-Ahkam-e-Shariah",
+                        "duration" : "13:24",
+                        "size" : "3.2 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-10-Istehaalat-e-Ahkam-e-Shariah.mp3?alt=media&token=a62b8171-1274-42f0-b3ab-707b8eec045d"
+                        },
+                        {
+                        "name" : "Tahaarat-ke-Baqiya-Masaael",
+                        "duration" : "05:10",
+                        "size" : "1.2 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-11-Tahaarat-ke-Baqiya-Masaael.mp3?alt=media&token=b827cc44-4fa1-471a-b752-5e483e09bd28"
+                        },
+                        {
+                        "name" : "Qirat-ke-Baqia-Masaeel",
+                        "duration" : "09:26",
+                        "size" : "2.3 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-12-Qir'at-ke-Baqia-Masaeel.mp3?alt=media&token=e11d035e-3b33-4e2e-a992-26c724a97fd1"
+                        },
+                        {
+                        "name" : "Imaamat-ka-Bayaan",
+                        "duration" : "11:24",
+                        "size" : "2.7 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-13-Imaamat-ka-Bayaan.mp3?alt=media&token=7f49abdb-2312-44cf-b676-e247a3b5ac16"
+                        },
+                        {
+                        "name" : "Jamaat-ka-Bayaan",
+                        "duration" : "07:53",
+                        "size" : "1.9 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-14-Jama'at-ka-Bayaan.mp3?alt=media&token=e8600cf0-0a73-4421-a52f-57e10b1616bc"
+                        },
+                        {
+                        "name" : "Mufsidat-e-Namaaz-ka-Bayaan",
+                        "duration" : "07:22",
+                        "size" : "1.8 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-15-Mufsidat-e-Namaaz-ka-Bayaan.mp3?alt=media&token=c6b7f40d-2200-44c2-87f6-f295fc403522"
+                        },
+                        {
+                        "name" : "Makruhat-e-Namaaz-ka-Bayaan",
+                        "duration" : "10:22",
+                        "size" : "2.4 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-16-Makruhat-e-Namaaz-ka-Bayaan.mp3?alt=media&token=d6f2787f-13bb-44eb-a450-5adc2e96ba85"
+                        },
+                        {
+                        "name" : "Ahkaam-e-Masajid-ka-Bayaan",
+                        "duration" : "07:29",
+                        "size" : "1.8 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-17-Ahkaam-e-Masajid-ka-Bayaan.mp3?alt=media&token=3519ea44-05a8-4548-991e-b619da563b0a"
+                        },
+                        {
+                        "name" : "Witr-ka-Bayaan",
+                        "duration" : "02:30",
+                        "size" : "600 KB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-18-Witr-ka-Bayaan.mp3?alt=media&token=37f4d0ef-6404-4dc9-9774-0f7816a2a67a"
+                        },
+                        {
+                        "name" : "Taraweeh-ka-Bayaan",
+                        "duration" : "07:06",
+                        "size" : "1.7 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-19-Taraweeh-ka-Bayaan.mp3?alt=media&token=5792e672-f64f-44ab-bfc7-35623f287a03"
+                        },
+                        {
+                        "name" : "Sunnat-o-Nafil-ke-Masaael",
+                        "duration" : "05:10",
+                        "size" : "1.2 MB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-20-Sunnat-o-Nafil-ke-Masaael.mp3?alt=media&token=75516118-d4fd-4b0b-955f-5d46a94f0208"
+                        },
+                        {
+                        "name" : "Pyaare-Nabi-ki-Piyari-Batein",
+                        "duration" : "03:33",
+                        "size" : "850 KB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-21-Pyaare-Nabi-ki-Piyari-Batein.mp3?alt=media&token=25da0e04-7d86-4bd1-a569-1fb32406714b"
+                        },
+                        {
+                        "name" : "Achi-Achi-Duaein",
+                        "duration" : "01:38",
+                        "size" : "390 KB",
+                        "id" : "4",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-4%2F4-22-Achi-Achi-Duaein.mp3?alt=media&token=fdb846d0-d4ae-440f-8f69-5d597a2250dc"
+                        }
+                        ],
+            "Volume-5":[
+                        {
+                        "name" : "Hamd",
+                        "duration" : "04:47",
+                        "size" : "1 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-01-Hamd.mp3?alt=media&token=eed553ce-b890-478d-b60e-f20d6f02a94d"
+                        },
+                        {
+                        "name" : "Taqdeer-e-Elaahi-ka-Bayaan",
+                        "duration" : "07:12",
+                        "size" : "1.7 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-02-Taqdeer-e-Elaahi-ka-Bayaan.mp3?alt=media&token=25ee1c86-7f0d-4bc5-9c58-69cdfac6dc2a"
+                        },
+                        {
+                        "name" : "Shafaat-ka-Bayaan",
+                        "duration" : "11:54",
+                        "size" : "2.9 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-03-Shafa'at-ka-Bayaan.mp3?alt=media&token=d7cda8b1-f58a-4b3d-95a2-62bbcdcb0b88"
+                        },
+                        {
+                        "name" : "Aalam-e-Barzakh-ka-Bayaan",
+                        "duration" : "09:49",
+                        "size" : "2.4 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-04-Aalam-e-Barzakh-ka-Bayaan.mp3?alt=media&token=ae630dbd-a1e6-4c55-9bb8-c9a0440994ab"
+                        },
+                        {
+                        "name" : "Naat-Shareef",
+                        "duration" : "04:55",
+                        "size" : "1.2 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-05-Naat-Shareef.mp3?alt=media&token=f4b60d93-e3e3-44eb-a3a7-833b5ba6e721"
+                        },
+                        {
+                        "name" : "Alaamaat-e-Qayamat-ka-Bayaan",
+                        "duration" : "22:40",
+                        "size" : "5.4 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-06-Alaamaat-e-Qayamat-ka-Bayaan.mp3?alt=media&token=6e1207a2-938b-49ba-933e-e2a6f62c6908"
+                        },
+                        {
+                        "name" : "Hashr-o-Nashr-ka-Bayaan",
+                        "duration" : "09:43",
+                        "size" : "2.3 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-07-Hashr-o-Nashr-ka-Bayaan.mp3?alt=media&token=e96b3526-ae54-4f05-b61d-d9416b05521a"
+                        },
+                        {
+                        "name" : "Aakhirat-ke-Kuchh-Tafseeli-Waqiat",
+                        "duration" : "16:38",
+                        "size" : "4.0 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-08-Aakhirat-ke-Kuchh-Tafseeli-Waqiat.mp3?alt=media&token=a0adeeb6-f977-46c0-ba78-066201b3e6f6"
+                        },
+                        {
+                        "name" : "Nafil-Namazon-ka-Bayaan",
+                        "duration" : "11:57",
+                        "size" : "2.9 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-09-Nafil-Namazon-ka-Bayaan.mp3?alt=media&token=ef402036-1d1d-4ae4-9f49-b527a9e8cde1"
+                        },
+                        {
+                        "name" : "Qaza-Namaaz-ka-Bayaan",
+                        "duration" : "08:35",
+                        "size" : "2.1 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-10-Qaza-Namaaz-ka-Bayaan.mp3?alt=media&token=93e83d2a-3123-415b-8506-7b2fa454650a"
+                        },
+                        {
+                        "name" : "Sajdahe-Sahw-ka-Bayaan",
+                        "duration" : "10:01",
+                        "size" : "2.4 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-11-Sajdahe-Sahw-ka-Bayaan.mp3?alt=media&token=32668720-0cc7-48d4-9178-cc2aac86abb4"
+                        },
+                        {
+                        "name" : "Sajdahe-Tilawat-ka-Bayaan",
+                        "duration" : "05:24",
+                        "size" : "1.3 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-12-Sajdahe-Tilawat-ka-Bayaan.mp3?alt=media&token=54ba03ae-97df-42cf-ab92-1ad78be309b2"
+                        },
+                        {
+                        "name" : "Namaze-Mareez-ka-Bayaan",
+                        "duration" : "03:44",
+                        "size" : "890 KB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-13-Namaze-Mareez-ka-Bayaan.mp3?alt=media&token=42ea4038-e424-43c0-9503-2fdcc9f5b777"
+                        },
+                        {
+                        "name" : "Namaaze-Musaafir-ka-Bayaan",
+                        "duration" : "06:10",
+                        "size" : "1.5 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-14-Namaaze-Musaafir-ka-Bayaan.mp3?alt=media&token=940bb49a-7b81-4ac7-9da6-065727b9ff8b"
+                        },
+                        {
+                        "name" : "Namaaze-Juma-ka-Bayaan",
+                        "duration" : "10:50",
+                        "size" : "2.5 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-15-Namaaze-Juma-ka-Bayaan.mp3?alt=media&token=6e33e2e0-7f01-49bb-94b7-ad1fbda954e2"
+                        },
+                        {
+                        "name" : "Namaaze-Eid-ka-Bayaan",
+                        "duration" : "06:01",
+                        "size" : "1.4 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-16-Namaaze-Eid-ka-Bayaan.mp3?alt=media&token=756219d0-75d0-4f31-b552-f3071f13657c"
+                        },
+                        {
+                        "name" : "Mayyat-ka-Bayaan",
+                        "duration" : "26:31",
+                        "size" : "6.4 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-17-Mayyat-ka-Bayaan.mp3?alt=media&token=b2454da3-9cb0-4d28-8e4a-7d529d346df8"
+                        },
+                        {
+                        "name" : "Ziyarate-Quboor-aur-Esaale-Sawab",
+                        "duration" : "06:39",
+                        "size" : "1.5 MB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-18-Ziyarate-Quboor-aur-Esaale-Sawab-ka-Bayaan.mp3?alt=media&token=a49dbdf7-5e6d-4e29-8e58-b0b6c22e7123"
+                        },
+                        {
+                        "name" : "Pyaare-Nabi-ki-Pyaari-Batein",
+                        "duration" : "03:34",
+                        "size" : "850 KB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-19-Pyaare-Nabi-ki-Pyaari-Batein.mp3?alt=media&token=bcf49d58-1d9e-4ee8-a2e1-e27524f1e2a8"
+                        },
+                        {
+                        "name" : "Achhi-Achhi-Duaein",
+                        "duration" : "03:05",
+                        "size" : "740 KB",
+                        "id" : "5",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-5%2F5-20-Achhi-Achhi-Duaein.mp3?alt=media&token=4afbeaa8-d498-425d-a650-e71ff796b5f2"
+                        }
+                        ],
+            "Volume-6":[
+                        {
+                        "name" : "Hamd",
+                        "duration" : "03:58",
+                        "size" : "950 KB",
+                        "id" : "6",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-6%2F6-01-Hamd.mp3?alt=media&token=4687111b-3e17-472a-b0ca-d62133ec848b"
+                        },
+                        {
+                        "name" : "Qurane-Majeed",
+                        "duration" : "15:06",
+                        "size" : "3.5 MB",
+                        "id" : "6",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-6%2F6-02-Qurane-Majeed.mp3?alt=media&token=dba932ba-8f29-42aa-b024-8a78e81e416b"
+                        },
+                        {
+                        "name" : "Naat-Shareef",
+                        "duration" : "04:44",
+                        "size" : "1.1 MB",
+                        "id" : "6",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-6%2F6-03-Naat-Shareef.mp3?alt=media&token=f82a12c0-5b52-4af7-9c91-0b841a76690e"
+                        },
+                        {
+                        "name" : "Khasaaese-Mustafa",
+                        "duration" : "28:57",
+                        "size" : "6.9 MB",
+                        "id" : "6",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-6%2F6-04-Khasaaese-Mustafa.mp3?alt=media&token=ee9b3bec-c1e0-4623-ac93-43815c4a3310"
+                        },
+                        {
+                        "name" : "Fazaaele-Durood",
+                        "duration" : "18:23",
+                        "size" : "4.4 MB",
+                        "id" : "6",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-6%2F6-05-Fazaaele-Durood.mp3?alt=media&token=22791e01-39e0-4de9-a4a3-4f53fd03392c"
+                        },
+                        {
+                        "name" : "Salaam",
+                        "duration" : "02:52",
+                        "size" : "680 KB",
+                        "id" : "6",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-6%2F6-06-Salaam.mp3?alt=media&token=5456a082-6f04-49e7-937d-daaaf36a1722"
+                        },
+                        {
+                        "name" : "Ummahaatul-Momineen",
+                        "duration" : "25:43",
+                        "size" : "6.2 KB",
+                        "id" : "6",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-6%2F6-07-Ummahaatul-Momineen.mp3?alt=media&token=90ab56e6-0db9-4311-94b7-ad495036b1ff"
+                        }
+                        ],
+            "Volume-7":[
+                        {
+                        "name" : "Zakaat-ka-Bayaan",
+                        "duration" : "15:42",
+                        "size" : "3.8 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-01-Zakaat-ka-Bayaan.mp3?alt=media&token=3fcafe3e-a959-4a02-8362-156f13ac1ac6"
+                        },
+                        {
+                        "name" : "Zakaat-Farz-hone-ki-Shartein",
+                        "duration" : "09:31",
+                        "size" : "2.3 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-02-Zakaat-Farz-hone-ki-Shartein.mp3?alt=media&token=1e84944d-dfef-4d82-8cb0-b7af489f71c2"
+                        },
+                        {
+                        "name" : "Janwaron-me-Zakaat-ka-Bayaan",
+                        "duration" : "04:36",
+                        "size" : "1.1 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-03-Janwaron-me-Zakaat-ka-Bayaan.mp3?alt=media&token=5a83c393-2540-43e7-9813-aa6a8aaa761e"
+                        },
+                        {
+                        "name" : "Sone-Chandi-ki-Zakat-ka-Bayaan",
+                        "duration" : "13:41",
+                        "size" : "3.3 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-04-Sone-Chandi-ki-Zakat-ka-Bayaan.mp3?alt=media&token=e62dbdc6-f440-4e78-8c9d-4b49887bd37f"
+                        },
+                        {
+                        "name" : "Maale-Tijarat-ki-Zakaat-ka-Bayaan",
+                        "duration" : "05:51",
+                        "size" : "1.3 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-05-Maale-Tijarat-ki-Zakaat-ka-Bayaan.mp3?alt=media&token=797d60bf-c6b2-48f8-8868-3481b105c825"
+                        },
+                        {
+                        "name" : "Zaraat-aur-Phaloon-ki-Zakaat-ka-Bayaan",
+                        "duration" : "06:52",
+                        "size" : "1.5 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-06-Zara'at-aur-Phaloon-ki-Zakaat-ka-Bayaan.mp3?alt=media&token=432e955b-ea62-4520-af04-4d43117beee5"
+                        },
+                        {
+                        "name" : "Masarif-e-Zakat-ka-Bayaan",
+                        "duration" : "17:51",
+                        "size" : "4.2 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-07-Masarif-e-Zakat-ka-Bayaan.mp3?alt=media&token=548cf798-8824-4046-b3e6-31d72cb3c6ab"
+                        },
+                        {
+                        "name" : "Sadqa-e-Fitr-ka-Bayaan",
+                        "duration" : "09:22",
+                        "size" : "2.2 MB",
+                        "id" : "7",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-7%2F7-08-Sadqa-e-Fitr-ka-Bayaan.mp3?alt=media&token=4b8b5c71-26b7-45a9-bf5e-e0948ab4a4e4"
+                        }
+                        ],
+            "Volume-8":[
+                        
+                        {
+                        "name" : "Rozey Ka Bayaan",
+                        "duration" : "13:31",
+                        "size" : "3.2 MB",
+                        "id" : "8",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-8%2F8-01-RozeyKaBayaan.mp3?alt=media&token=f05753d1-d91d-47a4-a3d6-44cfbc6a011d"
+                        },
+                        {
+                        "name" : "Rozey Ki Niyyat Ka Bayaan",
+                        "duration" : "05:14",
+                        "size" : "1.2 MB",
+                        "id" : "8",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-8%2F8-02-RozeyKiNiyyatKaBayaan.mp3?alt=media&token=2faa426b-2169-4855-8438-c67ba813aaaa"
+                        },
+                        {
+                        "name" : "Chand Dekhne Ka Bayaan",
+                        "duration" : "19:19",
+                        "size" : "4.5 MB",
+                        "id" : "8",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-8%2F8-03-ChandDekhneKaBayaan.mp3?alt=media&token=01bfa909-8c67-4c08-b93f-49eea596fceb"
+                        },
+                        {
+                        "name" : "UnChizon Ka Bayaan Jinse Roza Nahi Jata",
+                        "duration" : "06:10",
+                        "size" : "1.5 MB",
+                        "id" : "8",
+                        "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/audio%2Fhamara_islam%2Fvolume-8%2F8-04-UnChizonKaBayaanJinseRozaNahiJata.mp3?alt=media&token=a2e19c55-396c-4959-b79a-62d112738d25"
+                        }
+                        ]
+        },
+        "naats":{
+            "Muhammad Owais Raza Qadri":[
+                                         
+                                         {
+                                         "name" : "Aarizey_shamsoqamar",
+                                         "duration" : "07:30",
+                                         "size" : "2.7 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Faarizey_shamsoqamar.mp3?alt=media&token=cc32e52d-db5a-4deb-b1c7-acb65651071f"
+                                         },
+                                         
+                                         {
+                                         "name" : "Aasmaan_gar_terey_talwoonka",
+                                         "duration" : "15:49",
+                                         "size" : "5.7 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Faasmaan_gar_terey_talwoonka.mp3?alt=media&token=13f06f1b-07e7-4166-a089-7a360ec67402"
+                                         },
+                                         {
+                                         "name" : "Ab To Bus Ek He Dhun Hai Madina Dekhoon",
+                                         "duration" : "12:05",
+                                         "size" : "4.4 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2FAb%20To%20Bus%20Ek%20He%20Dhun%20Hai%20Madina%20Dekhoon.mp3?alt=media&token=3392aea6-c5df-44fa-924d-e843e2523761"
+                                         },
+                                         {
+                                         "name" : "Abmeryni gahonmain",
+                                         "duration" : "16:27",
+                                         "size" : "5.9 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fabmerynigahonmain.mp3?alt=media&token=6a9bbc8b-9261-480b-80d9-3f3eeb17d3c2"
+                                         },
+                                         {
+                                         "name" : "Aey deen_e_haq_kay_rehbar",
+                                         "duration" : "05:58",
+                                         "size" : "2.1 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Faey_deen_e_haq_kay_rehbar.mp3?alt=media&token=8eebbd80-ad33-4898-a4d6-10e1bfd1c1b1"
+                                         },
+                                         {
+                                         "name" : "Aisa_tujhay_khaliq",
+                                         "duration" : "10:50",
+                                         "size" : "3.9 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Faisa_tujhay_khaliq.mp3?alt=media&token=093eada2-7687-4227-bcca-6494759d67a2"
+                                         },
+                                         {
+                                         "name" : "Ajab_karam",
+                                         "duration" : "09:27",
+                                         "size" : "3.4 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fajab_karam.mp3?alt=media&token=9f2f2ab4-0bed-4b74-898b-d31c61523b15"
+                                         },
+                                         {
+                                         "name" : "Ajab_rang_a",
+                                         "duration" : "07:57",
+                                         "size" : "2.9 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fajab_rang_a.mp3?alt=media&token=49c9420a-9084-43c6-9b4d-a3f3b1091381"
+                                         },
+                                         {
+                                         "name" : "Alifallah",
+                                         "duration" : "04:16",
+                                         "size" : "1.5 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Falifallah.mp3?alt=media&token=63f15b8c-881f-4f91-a7cb-d87f561389a1"
+                                         },
+                                         {
+                                         "name" : "Allah_hoo_Allah",
+                                         "duration" : "07:40",
+                                         "size" : "2.8 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fallah_hoo_allah.mp3?alt=media&token=e0e22868-eded-49d1-916b-e6b46f80215a"
+                                         },
+                                         {
+                                         "name" : "ALLAH_humma Sallay_Ala",
+                                         "duration" : "14:53",
+                                         "size" : "5.4 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2FALLAH_humma%20sallay_ala.mp3?alt=media&token=4b607b9b-584d-4671-a236-1e0fac250207"
+                                         },
+                                         {
+                                         "name" : "Allah_nabi_da_naam_liye",
+                                         "duration" : "07:01",
+                                         "size" : "2.5 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fallah_nabi_da_naam_liye.mp3?alt=media&token=0167cda5-d4e4-4b86-b516-0003f323159c"
+                                         },
+                                         {
+                                         "name" : "Allah Allah Shah_e_Koanain",
+                                         "duration" : "10:40",
+                                         "size" : "3.8 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2FAllahAllahShah_e_Koanain.mp3?alt=media&token=44e932b0-f828-45a2-a056-c15deb1bbe52"
+                                         },
+                                         {
+                                         "name" : "Bulalo_phir mujhay",
+                                         "duration" : "26:15",
+                                         "size" : "9.4 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fbulalo_phir%20mujhay.mp3?alt=media&token=d39a9851-eb6d-4765-ad99-ef5b42e193b8"
+                                         },
+                                         
+                                         {
+                                         "name" : "Chamak_tujhse_patay_hain",
+                                         "duration" : "06:44",
+                                         "size" : "2.4 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fchamak_tujhse_patay_hain.mp3?alt=media&token=93779b39-de7b-4bb5-9213-5a2d5d23fd2f"
+                                         },
+                                         {
+                                         "name" : "Chour_fikar_dunya_ki",
+                                         "duration" : "08:20",
+                                         "size" : "2.9 MB",
+                                         "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Owais%20Raza%20Qadri%2Fchour_fikar_dunya_ki.mp3?alt=media&token=5995d9d8-9870-4666-8c5f-3f818a814dfa"
+                                         }
+                                         
+                                         
+                                         ],
+            
+            "Muhammad Atif Raza Khan":[
+            
+                                       {
+                                       "name" : "Alahazrat_hay_ooncha_maqam_aap_ka",
+                                       "duration" : "02:26",
+                                       "size" : "870 KB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Falahazrat_hay_ooncha_maqam_aap_ka.mp3?alt=media&token=ce2c0a82-f09f-4cb3-8f0b-66aac4495f2e"
+                                       },
+                                       {
+                                       "name" : "Arshe_haq_hay_masnade",
+                                       "duration" : "08:40",
+                                       "size" : "3.0 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Farshe_haq_hay_masnade.mp3?alt=media&token=7f3af636-d07e-4f9e-9953-54265c29c155"
+                                       },
+                                       {
+                                       "name" : "Bahaar_e_Jaan_Fizaa",
+                                       "duration" : "11:07",
+                                       "size" : "4.0 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2FBahaar_e_Jaan_Fizaa.mp3?alt=media&token=c3f45f84-84df-4fed-b78d-f8d0a0d49c86"
+                                       },
+                                       {
+                                       "name" : "Furqat_e_taiba_ki_wehshat_dil_se",
+                                       "duration" : "07:52",
+                                       "size" : "2.8 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Ffurqat_e_taiba_ki_wehshat_dil_se.mp3?alt=media&token=3937c1bd-1b6a-4a25-b16a-928a8d140f26"
+                                       },
+                                       {
+                                       "name" : "Habib_e_khuda_ka_nazara_karoon",
+                                       "duration" : "10:17",
+                                       "size" : "3.7 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Fhabib_e_khuda_ka_nazara_karoon.mp3?alt=media&token=a7f039c5-8a84-4a7d-9e0e-d15543e876e2"
+                                       },
+                                       {
+                                       "name" : "Ishq_e Nabi_Ka_Diya_Jab",
+                                       "duration" : "05:54",
+                                       "size" : "2.1 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2FIshq_e%20Nabi_Ka_Diya_Jab.mp3?alt=media&token=c124c5ce-e89f-4a7b-a83d-7d019134a337"
+                                       },
+                                       {
+                                       "name" : "Kabay_Ke_Badrudduja",
+                                       "duration" : "07:01",
+                                       "size" : "2.5 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2FKabay_Ke_Badrudduja.mp3?alt=media&token=6adeb7e9-ba13-4c57-acfa-35d539925750"
+                                       },
+                                       {
+                                       "name" : "Kare-Chaara-Saazi",
+                                       "duration" : "07:13",
+                                       "size" : "2.6 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2FKare-Chaara-Saazi.mp3?alt=media&token=dc0602df-5dcf-4814-89ac-dd292113e6a2"
+                                       },
+                                    
+                                       {
+                                       "name" : "Lamyati_nazeeru_ka_fee_nazarin",
+                                       "duration" : "06:42",
+                                       "size" : "2.4 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Flamyati_nazeeru_ka_fee_nazarin.mp3?alt=media&token=77a3b175-469e-4903-8b18-588fc66b1d92"
+                                       },
+                                       {
+                                       "name" : "Nazar_pe_kisi_ki_nazar_ho_rahi_hay",
+                                       "duration" : "08:14",
+                                       "size" : "3.0 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Fnazar_pe_kisi_ki_nazar_ho_rahi_hay.mp3?alt=media&token=d8c4a1ad-bf6d-4021-b49d-2891abd0942d"
+                                       },
+                                       {
+                                       "name" : "Payam_le_kay_jo_aai_saba_madinay_se",
+                                       "duration" : "08:06",
+                                       "size" : "3.0 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Fpayam_le_kay_jo_aai_saba_madinay_se.mp3?alt=media&token=ec2d3c28-420e-43e4-964c-3378588c2bf8"
+                                       },
+                                       {
+                                       "name" : "Sabse_aula_o_aala_hamara_nabi",
+                                       "duration" : "09:35",
+                                       "size" : "3.4 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Fsabse_aula_o_aala_hamara_nabi.mp3?alt=media&token=91be36b9-f0d3-4ce9-94f4-18e30bd27969"
+                                       },
+                                       {
+                                       "name" : "Suntay_hain_kay_mehshar_main",
+                                       "duration" : "13:17",
+                                       "size" : "4.8 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2Fsuntay_hain_kay_mehshar_main.mp3?alt=media&token=d8307e3e-7d42-4cfe-b91b-e355d474feb5"
+                                       },
+                                       {
+                                       "name" : "Tera-Aaqa-Shehen-Shahe-Kounain",
+                                       "duration" : "08:53",
+                                       "size" : "3.2 MB",
+                                       "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Atif%20Raza%20Khan%2FTera-Aaqa-Shehen-Shahe-Kounain.mp3?alt=media&token=ce069159-2e10-44c5-a4c5-1aa85084ab47"
+                                       }
+            
+            ],
+            "Junaid Raza Khan":[
+            
+            
+                                {
+                                "name" : "AalaHazrat_Ka_Danka_Bajhega",
+                                "duration" : "09:41",
+                                "size" : "3.5 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FAalaHazrat_Ka_Danka_Bajhega.mp3?alt=media&token=ce5aefd4-de58-422b-9d2f-ea5145843194"
+                                },
+                                {
+                                "name" : "Apnay_Dar_Pe_Jo_Bulao",
+                                "duration" : "08:48",
+                                "size" : "3.2 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FApnay_Dar_Pe_Jo_Bulao.mp3?alt=media&token=18ae4c06-6707-44d1-8ba5-95defb558063"
+                                },
+                                {
+                                "name" : "Chaand_Se_Unke_Chehre_Par",
+                                "duration" : "04:42",
+                                "size" : "1.7 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FChaand_Se_Unke_Chehre_Par.mp3?alt=media&token=61ea7a9f-a763-4ab3-9592-9d0bfe9ab416"
+                                },
+                                {
+                                "name" : "Chamak Tujh Se Paate",
+                                "duration" : "06:33",
+                                "size" : "2.4 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FChamak%20Tujh%20Se%20Paate.mp3?alt=media&token=58960639-8063-4822-887d-cf40f38a44f3"
+                                },
+                                {
+                                "name" : "Dam_e_Iztaraab_Mujh_ko",
+                                "duration" : "10:55",
+                                "size" : "3.9 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FDam_e_Iztaraab_Mujh_ko.mp3?alt=media&token=2f9406e5-88b6-49db-b3ab-f64dec8f4fb9"
+                                },
+                                {
+                                "name" : "Do_Jahaan_Main_Koi_Tum_Sa",
+                                "duration" : "08:04",
+                                "size" : "2.9 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FDo_Jahaan_Main_Koi_Tum_Sa.mp3?alt=media&token=09d1ead6-47c6-4109-9d68-c5de1dccf0b0"
+                                },
+                                {
+                                "name" : "Door_Ai_Dil_Rahe_Madeene_Se",
+                                "duration" : "05:21",
+                                "size" : "1.9 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FDoor_Ai_Dil_Rahe_Madeene_Se.mp3?alt=media&token=b6de891c-f07c-4255-a8d9-8b01613c1959"
+                                },
+                                {
+                                "name" : "Hamne_Kia_Ahmed_Raza_Dekha",
+                                "duration" : "02:22",
+                                "size" : "1.6 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FHamne_Kia_Ahmed_Raza_Dekha.mp3?alt=media&token=f11d036b-8862-41ba-b4b7-8299a2ad6c76"
+                                },
+                                {
+                                "name" : "Har Sunni Musalmaan Hain Shaida Mere Khwaaja Ka",
+                                "duration" : "10:48",
+                                "size" : "3.9 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FHar%20Sunni%20Musalmaan%20Hain%20Shaida%20Mere%20Khwaaja%20Ka.mp3?alt=media&token=f47b3891-bdd8-407a-b5d0-d603b7f57349"
+                                },
+                                {
+                                "name" : "Huzoor Jaante Hai",
+                                "duration" : "11:38",
+                                "size" : "4.2 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FHuzoor%20Jaante%20Hai.mp3?alt=media&token=d73d30b2-e559-437d-915a-88dd821e6a93"
+                                },
+                                {
+                                "name" : "Jahan_Baani_Ata_Kardein",
+                                "duration" : "10:09",
+                                "size" : "3.7 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FJahan_Baani_Ata_Kardein.mp3?alt=media&token=b4020c72-fb68-4b3f-99dc-b478fc075d6c"
+                                },
+                                {
+                                "name" : "Kaash Gumbade Khazra",
+                                "duration" : "10:56",
+                                "size" : "3.7 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FKaash%20Gumbade%20Khazra.mp3?alt=media&token=4156c9ca-fc75-4cca-b5e1-f5bfde82f279"
+                                },
+                                {
+                                "name" : "Khwaaja e Hind Woh darbaar Hai Aala Tera",
+                                "duration" : "06:22",
+                                "size" : "2.2 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FKhwaaja%20e%20Hind%20Woh%20darbaar%20Hai%20Aala%20Tera.mp3?alt=media&token=fc9c2579-da63-408e-9d68-e479772a4f38"
+                                },
+                                {
+                                "name" : "Koi Kya Jaane Jo Tum Ho",
+                                "duration" : "08:20",
+                                "size" : "2.9 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FKoi%20Kya%20Jaane%20Jo%20Tum%20Ho.mp3?alt=media&token=6fbe6a08-c836-4a5d-87e2-99578eb2d02d"
+                                },
+                                {
+                                "name" : "Kuch_Aisa_Karde",
+                                "duration" : "13:56",
+                                "size" : "4.9 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FKuch_Aisa_Karde.mp3?alt=media&token=d3b1b246-5081-43b9-bef0-305ab788aa1c"
+                                },
+                                {
+                                "name" : "Maslak_e_Aalhazrat_Ka_Naaraa",
+                                "duration" : "09:28",
+                                "size" : "3.4 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FMaslak_e_Aalhazrat_Ka_Naaraa.mp3?alt=media&token=68a9332b-4cfd-42da-9f40-bd7e10a435e5"
+                                },
+                                {
+                                "name" : "Munawwar Meri Aankhown Ko",
+                                "duration" : "08:45",
+                                "size" : "3.2 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FMunawwar%20Meri%20Aankhown%20Ko.mp3?alt=media&token=0d10de0b-2202-4b13-9935-dc4b11c6c788"
+                                },
+                                {
+                                "name" : "Murshidy_Akhtar_Raza",
+                                "duration" : "09:04",
+                                "size" : "3.2 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FMurshidy_Akhtar_Raza.mp3?alt=media&token=04edb717-a81c-45d5-ae9d-818bc0cb7f6b"
+                                },
+                                {
+                                "name" : "Naara_e_Risaalat",
+                                "duration" : "07:42",
+                                "size" : "2.8 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FNaara_e_Risaalat.mp3?alt=media&token=eda887f8-e053-401c-a3ab-a2e407371bfe"
+                                },
+                                {
+                                "name" : "Salle_Ala_Nabiyena",
+                                "duration" : "03:36",
+                                "size" : "1.4 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FSalle_Ala_Nabiyena.mp3?alt=media&token=d3dad15c-5651-4ef0-99f1-9045caedf774"
+                                },
+                                {
+                                "name" : "Sunniyon Ka Taraana Salaamat Rahe",
+                                "duration" : "07:32",
+                                "size" : "2.6 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FSunniyon%20Ka%20Taraana%20Salaamat%20Rahe.mp3?alt=media&token=82e9f9eb-f9a4-4559-8485-0152867601a0"
+                                },
+                                {
+                                "name" : "Yaa_Ghaus_Al_Madad",
+                                "duration" : "09:52",
+                                "size" : "3.6 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FYaa_Ghaus_Al_Madad.mp3?alt=media&token=3053222b-85cd-4340-a83f-1fc48cbe0c42"
+                                },
+                                {
+                                "name" : "Zameeno_Zamaan",
+                                "duration" : "09:07",
+                                "size" : "3.2 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FJunaid%20Raza%20Khan%2FZameeno_Zamaan.mp3?alt=media&token=d2bcb37f-dba3-4911-8340-5b930e13af56"
+                                }
+            
+            ],
+            "Fazlay Ahmed Raza":[
+                                 {
+                                 "name" : "Aisatujhe",
+                                 "duration" : "08:24",
+                                 "size" : "3.0 MB",
+                                 "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FFazlay%20Ahmed%20Raza%2Faisatujhe.mp3?alt=media&token=0e648d04-08d3-4647-bfe1-207981eba13f"
+                                 },
+                                 {
+                                 "name" : "Ajab_rang_per_hai",
+                                 "duration" : "06:47",
+                                 "size" : "2.2 MB",
+                                 "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FFazlay%20Ahmed%20Raza%2Fajab_rang_per_hai.mp3?alt=media&token=c94398e7-a21b-45c8-a6a3-bc7e9976da35"
+                                 },
+                                 {
+                                 "name" : "Akash_gumbade_khizra",
+                                 "duration" : "06:16",
+                                 "size" : "2.2 MB",
+                                 "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FFazlay%20Ahmed%20Raza%2Fakash_gumbade_khizra.mp3?alt=media&token=34445e07-0d73-4802-8dfd-c348dabf3bf4"
+                                 },
+                                 {
+                                 "name" : "Hamd",
+                                 "duration" : "04:56",
+                                 "size" : "1.8 MB",
+                                 "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FFazlay%20Ahmed%20Raza%2Fhamd.mp3?alt=media&token=b5eab75c-8206-4d0f-a6a2-fbccfd0aba1a"
+                                 },
+                                 {
+                                 "name" : "Hazir-Hain-Teray-Darbar-Mein-Ham",
+                                 "duration" : "06:19",
+                                 "size" : "2.2 MB",
+                                 "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FFazlay%20Ahmed%20Raza%2FHazir-Hain-Teray-Darbar-Mein-Ham.mp3?alt=media&token=ce56c3b7-960a-41b9-ae89-6023ce41b090"
+                                 },
+                                 {
+                                 "name" : "Qasida",
+                                 "duration" : "43:53",
+                                 "size" : "15.5 MB",
+                                 "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FFazlay%20Ahmed%20Raza%2Fqasida.mp3?alt=media&token=c58d4371-f673-42dc-aa9a-1adcb14e2cf8"
+                                 },
+                                 {
+                                 "name" : "Zamin-Maili-Nahi-Hoti",
+                                 "duration" : "06:02",
+                                 "size" : "2.2 MB",
+                                 "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FFazlay%20Ahmed%20Raza%2FZamin-Maili-Nahi-Hoti.mp3?alt=media&token=4c8d80ea-49e0-46c7-8fde-1beff286ecbb"
+                                 }
+            
+            ],
+            "Syed Rehan Qadri":[
+                                {
+                                "name" : "Allah_ho_allah_ho",
+                                "duration" : "06:33",
+                                "size" : "2.2 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Fallah_ho_allah_ho.mp3?alt=media&token=ee1ffba2-f33e-4e27-ae28-3333401ad36f"
+                                },
+                                {
+                                "name" : "Huzoor_aisa_koi_intizam",
+                                "duration" : "07:30",
+                                "size" : "2.5 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Fhuzoor_aisa_koi_intizam.mp3?alt=media&token=7f3f356e-6f4c-4520-80fb-4b9d29b527c1"
+                                },
+                                {
+                                "name" : "Jitna_meray_khuda_ko_hay",
+                                "duration" : "07:24",
+                                "size" : "2.5 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Fjitna_meray_khuda_ko_hay.mp3?alt=media&token=3fcc5d4a-8870-4e7d-84c6-f64133a063f5"
+                                },
+                                {
+                                "name" : "Rab_mehfilan_sajayian",
+                                "duration" : "04:33",
+                                "size" : "1.5 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Frab_mehfilan_sajayian.mp3?alt=media&token=66b12b9c-3b33-48df-82dc-7d6ad98c5aa2"
+                                },
+                                {
+                                "name" : "Sab_se_olahoala_hamara_nabi",
+                                "duration" : "07:13",
+                                "size" : "2.5 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Fsab_se_olahoala_hamara_nabi.mp3?alt=media&token=f9da16d5-0d49-4fd3-b5d5-c8dd5180b820"
+                                },
+                                
+                                {
+                                "name" : "Tajdare_haram",
+                                "duration" : "10:24",
+                                "size" : "3.5 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Ftajdare_haram.mp3?alt=media&token=4f54fd68-a714-4722-951a-1cee8fc9edd1"
+                                },
+                                {
+                                "name" : "Ya_nabi_salamun_alaika",
+                                "duration" : "05:54",
+                                "size" : "2.1 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Fya_nabi_salamun_alaika.mp3?alt=media&token=31da6058-2eef-444e-b49c-c812e27a87e7"
+                                },
+                                {
+                                "name" : "Ye_sab_tumhara_karam_hay",
+                                "duration" : "06:46",
+                                "size" : "2.3 MB",
+                                "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FSyed%20Rehan%20Qadri%2Fye_sab_tumhara_karam_hay.mp3?alt=media&token=e8d583fd-24c0-4e8a-9729-8faf7d321c29"
+                                }
+            ],
+            "Muhammad Mushtaq Qadri":[
+                                      {
+                                      "name" : "Aey_saba_le_ja_madinay",
+                                      "duration" : "06:33",
+                                      "size" : "2.3 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Faey_saba_le_ja_madinay.mp3?alt=media&token=1cbf1b33-217a-4aba-896f-b972d202ba25"
+                                      },
+                                      {
+                                      "name" : "Aey_shafae",
+                                      "duration" : "06:38",
+                                      "size" : "2.3 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Faey_shafae.mp3?alt=media&token=f5d83459-4415-4063-836f-a2613dbdabb5"
+                                      },
+                                      {
+                                      "name" : "Amna_ka_lal_aya",
+                                      "duration" : "05:25",
+                                      "size" : "2.0 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Famna_ka_lal_aya.mp3?alt=media&token=72660042-2f87-4e6b-862b-7b3f03badd7b"
+                                      },
+                                      {
+                                      "name" : "Aysaba",
+                                      "duration" : "07:14",
+                                      "size" : "2.5 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Faysaba.mp3?alt=media&token=7c5e4244-63b1-4a78-a728-fc0c106ede9e"
+                                      },
+                                      {
+                                      "name" : "Ayshehenshahmadina",
+                                      "duration" : "06:06",
+                                      "size" : "2.0 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fayshehenshahmadina.mp3?alt=media&token=ccac7ad2-2a88-45e6-94ba-6fc39ca74d08"
+                                      },
+                                      {
+                                      "name" : "Bara_rabiul_awal_kay",
+                                      "duration" : "05:27",
+                                      "size" : "2.0 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fbara_rabiul_awal_kay.mp3?alt=media&token=e3e50b04-2581-4728-baaf-41e15e8d09ef"
+                                      },
+                                      {
+                                      "name" : "Dil_ko_unse_khuda",
+                                      "duration" : "03:58",
+                                      "size" : "1.4 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fdil_ko_unse_khuda.mp3?alt=media&token=b6e5b51f-54b3-4565-ab3b-ea3404d1d672"
+                                      },
+                                      {
+                                      "name" : "Imanhay",
+                                      "duration" : "10:17",
+                                      "size" : "3.4 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fimanhay.mp3?alt=media&token=fc757e10-55cb-4be1-b181-29140dd703cf"
+                                      },
+                                      {
+                                      "name" : "Kaba_key_badruduja",
+                                      "duration" : "07:02",
+                                      "size" : "2.4 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fkaba_key_badruduja.mp3?alt=media&token=14951d1f-717e-4f8e-8d85-4e72bfd05c50"
+                                      },
+                                      {
+                                      "name" : "Mustafa_jaaney_rahmat",
+                                      "duration" : "12:27",
+                                      "size" : "4.4 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fmustafa_jaaney_rahmat.mp3?alt=media&token=21259ad1-3569-47eb-86e1-c194b82dbc5c"
+                                      },
+                                      {
+                                      "name" : "Qasida_Ghosia",
+                                      "duration" : "15:35",
+                                      "size" : "5.4 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2FQasida_Ghosia.mp3?alt=media&token=d2402c05-81e2-490f-a4d7-8ab25aa461d2"
+                                      },
+                                      {
+                                      "name" : "Sabseola",
+                                      "duration" : "05:25",
+                                      "size" : "2.0 MB",
+                                      "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fsabseola.mp3?alt=media&token=e8ba31c0-3421-434a-a6a1-091bf76da07e"
+                                      }
+            
+            ],
+            "Shahid ul Haq Noori":[
+                                   {
+                                   "name" : "Aey_ishqe_nabi_meray",
+                                   "duration" : "07:01",
+                                   "size" : "2.3 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Faey_ishqe_nabi_meray.mp3?alt=media&token=4ec1d462-3584-4c1a-b33c-08610ec90481"
+                                   },
+                                   {
+                                   "name" : "Apnay_dar_pe_jo_bulao",
+                                   "duration" : "07:35",
+                                   "size" : "2.5 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fapnay_dar_pe_jo_bulao.mp3?alt=media&token=8734860b-b694-47fa-a8e9-f6d93329a655"
+                                   },
+                                   {
+                                   "name" : "Do_sadqa_deedar_kay_mangton",
+                                   "duration" : "05:59",
+                                   "size" : "2.1 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fdo_sadqa_deedar_kay_mangton.mp3?alt=media&token=42565e16-ef29-4da0-9929-6028ce9892a5"
+                                   },
+                                   {
+                                   "name" : "Elahi_dil_ko_meray_zikar",
+                                   "duration" : "09:10",
+                                   "size" : "3.1 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Felahi_dil_ko_meray_zikar.mp3?alt=media&token=d8c08b56-0e5e-43fc-8c7f-250c65f69b41"
+                                   },
+                                   {
+                                   "name" : "Habibi_ya_rasoolallah",
+                                   "duration" : "06:25",
+                                   "size" : "2.1 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fhasbi_rabi_jallallah.mp3?alt=media&token=823ee3c5-5459-45a8-925a-b6022a2226c0"
+                                   },
+                                   {
+                                   "name" : "Hasbi_rabi_jallallah",
+                                   "duration" : "05:30",
+                                   "size" : "2.0 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FMuhammad%20Mushtaq%20Qadri%2Fsabseola.mp3?alt=media&token=e8ba31c0-3421-434a-a6a1-091bf76da07e"
+                                   },
+                                   {
+                                   "name" : "Jashne_nabi_kay_sadqay",
+                                   "duration" : "09:32",
+                                   "size" : "3.0 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fjashne_nabi_kay_sadqay.mp3?alt=media&token=bc094c51-b58c-4241-9809-05088726b067"
+                                   },
+                                   {
+                                   "name" : "Khila_meray_dil_ki_kali",
+                                   "duration" : "07:54",
+                                   "size" : "2.8 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fkhila_meray_dil_ki_kali.mp3?alt=media&token=6e34732d-6b29-4740-b216-c99d33e2acc6"
+                                   },
+                                   {
+                                   "name" : "Kuch_aisa_karde_meray",
+                                   "duration" : "10:18",
+                                   "size" : "3.6 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fkuch_aisa_karde_meray.mp3?alt=media&token=c86eb5be-7e17-4014-9089-670ce5622697"
+                                   },
+                                   {
+                                   "name" : "Nabi_kay_ishq_ne",
+                                   "duration" : "07:46",
+                                   "size" : "2.6 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fnabi_kay_ishq_ne.mp3?alt=media&token=95cc03ab-7fc0-4c54-aae7-6c6a961325ae"
+                                   },
+                                   {
+                                   "name" : "Teray_dar_per_sajid_hain",
+                                   "duration" : "11:27",
+                                   "size" : "4.0 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fteray_dar_per_sajid_hain.mp3?alt=media&token=67aaf1ec-870c-46ba-9ac2-3e44d7621a59"
+                                   },
+                                   {
+                                   "name" : "Zameen_o_zaman_tumharay",
+                                   "duration" : "08:18",
+                                   "size" : "3.0 MB",
+                                   "url" : "https://firebasestorage.googleapis.com/v0/b/aalahazrat-ka-kalam.appspot.com/o/naats%2FShahid%20ul%20Haq%20Noori%2Fzameen_o_zaman_tumharay.mp3?alt=media&token=b24e21e7-156a-45be-9dda-e88e6f837547"
+                                   }
+            
+            ]
+        },
+        
+        
+        
+        "categories" : [
+                        "Quran",
+                        "Books",
+                        "Hamara Islam",
+                        "Naats",
+                        "More...",
+                        "Contact Us",
+                        "Share App"
+                        ]
+    }
+}
