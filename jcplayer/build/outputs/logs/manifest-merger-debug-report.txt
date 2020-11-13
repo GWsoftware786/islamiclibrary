@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:8:5-19:19
+	android:supportsRtl
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:9:9-35
+	tools:replace
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:12:9-38
+service#com.example.jean.jcplayer.service.JcPlayerService
+ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:13:18-57
+receiver#com.example.jean.jcplayer.service.notification.JcPlayerNotificationReceiver
+ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:15:9-18:40
+	android:enabled
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml:16:13-78
+uses-sdk
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+		ADDED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahaboob/AlaHazratKaKalam/jcplayer/src/main/AndroidManifest.xml

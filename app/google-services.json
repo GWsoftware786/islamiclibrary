@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50289962630",
+    "firebase_url": "https://aalahazrat-ka-kalam.firebaseio.com",
+    "project_id": "aalahazrat-ka-kalam",
+    "storage_bucket": "aalahazrat-ka-kalam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50289962630:android:b116e9d68c1e8b70ceeb07",
+        "android_client_info": {
+          "package_name": "com.gwsoftware.alahazratkakalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50289962630-hndllkup3ahbco1kndmkdk16ni67kvke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gwsoftware.alahazratkakalam",
+            "certificate_hash": "c58e5ab040b381455e5dba9fe4c5b87826a8cd21"
+          }
+        },
+        {
+          "client_id": "50289962630-ece5ig2d5hopsug3ruhfcg0bd6he0ql5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvgsllczpyCAvr7EodmzH4f6sAdVFmrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50289962630-ece5ig2d5hopsug3ruhfcg0bd6he0ql5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

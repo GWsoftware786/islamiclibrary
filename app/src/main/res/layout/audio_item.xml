@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/audio_title"
+        android:layout_alignBottom="@+id/separator"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/song_progress_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:alpha="0.5"
+            android:background="@color/colorPrimary" />
+
+        <View
+            android:id="@+id/song_anti_progress_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/audio_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:gravity="start"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:text="Audio title"
+        android:textAlignment="textStart"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/download_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="10dp"
+        android:src="@drawable/download"
+        android:text="Delete"
+        android:tint="@color/colorAccent" />
+
+    <ImageView
+        android:id="@+id/play_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="10dp"
+        android:src="@drawable/done"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/delete_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="10dp"
+        android:src="@drawable/delete"
+        android:tint="@color/colorAccent"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/separator"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/audio_title"
+        android:background="@android:color/darker_gray"
+        android:paddingStart="3dp"
+        android:paddingEnd="3dp" />
+
+
+</RelativeLayout>

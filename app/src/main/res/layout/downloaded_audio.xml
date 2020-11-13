@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/audio_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/jcplayer"
+        android:layout_margin="10dp">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <com.example.jean.jcplayer.view.JcPlayerView
+        android:id="@+id/jcplayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bg_player_dark"
+        android:gravity="bottom"
+        app:next_icon_color="@android:color/holo_green_light"
+        app:pause_icon_color="@android:color/holo_green_light"
+        app:play_icon_color="@android:color/holo_green_light"
+        app:previous_icon_color="@android:color/holo_green_light"
+        app:progress_color="@android:color/holo_green_light"
+        app:random_icon_color="@android:color/white"
+        app:repeat_icon_color="@android:color/white"
+        app:seek_bar_color="@android:color/white"
+        app:text_audio_current_duration_color="@android:color/holo_green_light"
+        app:text_audio_duration_color="@android:color/holo_green_light"
+        app:text_audio_title_color="@android:color/white" />
+
+    <TextView
+        android:id="@+id/no_downloads_found"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="No Downloads Found"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
+</RelativeLayout>
