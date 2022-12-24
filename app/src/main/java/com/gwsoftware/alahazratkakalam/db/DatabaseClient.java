@@ -1,6 +1,6 @@
 package com.gwsoftware.alahazratkakalam.db;
 
-import android.arch.persistence.room.Room;
+import androidx.room.Room;
 import android.content.Context;
 
 public class DatabaseClient {

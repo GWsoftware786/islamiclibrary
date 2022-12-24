@@ -4,7 +4,7 @@ import android.content.Context
 import android.content.res.TypedArray
 import android.graphics.PorterDuff
 import android.os.Build
-import android.support.v4.content.res.ResourcesCompat
+import androidx.core.content.res.ResourcesCompat
 import android.util.AttributeSet
 import android.view.View
 import android.widget.Button
@@ -508,7 +508,7 @@ class JcPlayerView : LinearLayout, View.OnClickListener, SeekBar.OnSeekBarChange
         showPauseButton()
     }
 
-    private fun onUpdateTitle(title: String) {
+    private fun onUpdateTitle(title: String?) {
         txtCurrentMusic?.let {
             it.visibility = View.VISIBLE
             YoYo.with(Techniques.FadeInLeft)

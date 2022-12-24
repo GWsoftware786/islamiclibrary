@@ -8,7 +8,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.ConnectivityManager;
 import android.provider.Settings;
-import android.support.v7.app.AlertDialog;
+import androidx.appcompat.app.AlertDialog;
 import android.util.DisplayMetrics;
 
 import com.example.jean.jcplayer.model.JcAudio;
@@ -133,7 +133,7 @@ public class Utils {
         AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
                 .build();
-        adView.loadAd(adRequest);// Initialize the Mobile Ads SDK
+        //adView.loadAd(adRequest);// Initialize the Mobile Ads SDK
     }
 
     public static ArrayList<JcAudio> getAudioList() {

@@ -1,26 +1,21 @@
 package com.gwsoftware.alahazratkakalam.fragments;
 
-import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.SimpleItemAnimator;
+import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.recyclerview.widget.SimpleItemAnimator;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.example.jean.jcplayer.JcPlayerManagerListener;
 import com.example.jean.jcplayer.general.JcStatus;
 import com.example.jean.jcplayer.model.JcAudio;
 import com.example.jean.jcplayer.view.JcPlayerView;
 import com.gwsoftware.alahazratkakalam.R;
-import com.gwsoftware.alahazratkakalam.activity.HamaraIslamActivity;
 import com.gwsoftware.alahazratkakalam.adapter.AudioAdapter;
-import com.gwsoftware.alahazratkakalam.asyncktask.DownloadAnyFile;
-import com.gwsoftware.alahazratkakalam.interfaces.DownloadAnyFileCallback;
 import com.gwsoftware.alahazratkakalam.utils.Constants;
 import com.gwsoftware.alahazratkakalam.utils.Utils;
 

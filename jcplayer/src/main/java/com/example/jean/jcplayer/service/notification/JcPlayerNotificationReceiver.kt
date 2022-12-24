@@ -13,7 +13,7 @@ class JcPlayerNotificationReceiver : BroadcastReceiver() {
         var action = ""
 
         if (intent.hasExtra(JcNotificationPlayer.ACTION)) {
-            action = intent.getStringExtra(JcNotificationPlayer.ACTION)
+            action = intent.getStringExtra(JcNotificationPlayer.ACTION)!!
         }
 
         when (action) {

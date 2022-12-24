@@ -2,11 +2,11 @@ package com.gwsoftware.alahazratkakalam.activity;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.SimpleItemAnimator;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.recyclerview.widget.SimpleItemAnimator;
 import android.view.KeyEvent;
 import android.view.View;
 
@@ -25,7 +25,6 @@ import com.gwsoftware.alahazratkakalam.models.DataObjectModel;
 import com.gwsoftware.alahazratkakalam.utils.AhApplication;
 import com.gwsoftware.alahazratkakalam.utils.Constants;
 import com.gwsoftware.alahazratkakalam.utils.GridSpacingItemDecoration;
-import com.gwsoftware.alahazratkakalam.utils.Utils;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -53,7 +52,7 @@ public class HamaraIslamActivity extends AppCompatActivity implements recyclerVi
         audiosRecyclerView = findViewById(R.id.audio_recycler_view);
         player = findViewById(R.id.jcplayer);
         adView = findViewById(R.id.adView);
-        Utils.loadAdView(this, adView);
+        //Utils.loadAdView(this, adView);
         volumes = new ArrayList<>();
         ahApplication = AhApplication.getInstance();
         if (getIntent().getStringExtra("category") != null) {

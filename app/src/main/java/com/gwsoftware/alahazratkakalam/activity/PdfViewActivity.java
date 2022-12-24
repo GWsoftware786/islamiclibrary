@@ -1,7 +1,7 @@
 package com.gwsoftware.alahazratkakalam.activity;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
 import com.github.barteksc.pdfviewer.PDFView;
@@ -11,7 +11,6 @@ import com.github.barteksc.pdfviewer.scroll.DefaultScrollHandle;
 import com.google.android.gms.ads.AdView;
 import com.gwsoftware.alahazratkakalam.R;
 import com.gwsoftware.alahazratkakalam.utils.Constants;
-import com.gwsoftware.alahazratkakalam.utils.Utils;
 
 import java.io.File;
 
@@ -29,7 +28,8 @@ public class PdfViewActivity extends AppCompatActivity implements OnPageChangeLi
         boolean isDisplayAdView = getIntent().getBooleanExtra("is_display_adview", false);
         adView = findViewById(R.id.adView);
         if (isDisplayAdView) {
-            Utils.loadAdView(this, adView);
+            //Utils.loadAdView(this, adView);
+            adView.setVisibility(View.GONE);
         } else {
             adView.setVisibility(View.GONE);
         }

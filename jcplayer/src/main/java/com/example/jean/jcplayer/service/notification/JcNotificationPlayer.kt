@@ -8,11 +8,11 @@ import android.content.Context
 import android.content.Intent
 import android.graphics.BitmapFactory
 import android.os.Build
-import android.support.annotation.RequiresApi
-import android.support.v4.app.NotificationCompat
-import android.support.v4.app.NotificationCompat.VISIBILITY_PUBLIC
-import android.support.v4.app.NotificationManagerCompat
 import android.widget.RemoteViews
+import androidx.annotation.RequiresApi
+import androidx.core.app.NotificationCompat
+import androidx.core.app.NotificationCompat.VISIBILITY_PUBLIC
+import androidx.core.app.NotificationManagerCompat
 import com.example.jean.jcplayer.JcPlayerManager
 import com.example.jean.jcplayer.JcPlayerManagerListener
 import com.example.jean.jcplayer.R
@@ -27,7 +27,8 @@ import java.lang.ref.WeakReference
  * @date 12/07/16.
  * Jesus loves you.
  */
-class JcNotificationPlayer private constructor(private val context: Context) : JcPlayerManagerListener {
+class JcNotificationPlayer private constructor(private val context: Context) :
+    JcPlayerManagerListener {
 
     private var title: String? = null
     private var time = "00:00"
@@ -71,18 +72,29 @@ class JcNotificationPlayer private constructor(private val context: Context) : J
         openUi.flags = Intent.FLAG_ACTIVITY_SINGLE_TOP
 
         notification = NotificationCompat.Builder(context, NOTIFICATION_CHANNEL)
-                .setSmallIcon(iconResourceResource)
-                .setLargeIcon(BitmapFactory.decodeResource(context.resources, iconResourceResource))
-                .setPriority(NotificationCompat.PRIORITY_DEFAULT)
-                .setContent(createNotificationPlayerView())
-                .setSound(null)
-                .setContentIntent(PendingIntent.getActivity(context, NOTIFICATION_ID, openUi, PendingIntent.FLAG_CANCEL_CURRENT))
-                .setAutoCancel(false)
-                .build()
+            .setSmallIcon(iconResourceResource)
+            .setLargeIcon(BitmapFactory.decodeResource(context.resources, iconResourceResource))
+            .setPriority(NotificationCompat.PRIORITY_DEFAULT)
+            .setContent(createNotificationPlayerView())
+            .setSound(null)
+            .setContentIntent(
+                PendingIntent.getActivity(
+                    context,
+                    NOTIFICATION_ID,
+                    openUi,
+                    PendingIntent.FLAG_MUTABLE
+                )
+            )
+            .setAutoCancel(false)
+            .build()
 
         @RequiresApi(Build.VERSION_CODES.O)
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            val channel = NotificationChannel(NOTIFICATION_CHANNEL, NOTIFICATION_CHANNEL, NotificationManager.IMPORTANCE_LOW)
+            val channel = NotificationChannel(
+                NOTIFICATION_CHANNEL,
+                NOTIFICATION_CHANNEL,
+                NotificationManager.IMPORTANCE_LOW
+            )
             channel.lockscreenVisibility = VISIBILITY_PUBLIC
             channel.enableLights(false)
             channel.enableVibration(false)
@@ -104,26 +116,44 @@ class JcNotificationPlayer private constructor(private val context: Context) : J
 
         if (JcPlayerManager.getInstance(context, null, null).get()?.isPaused() == true) {
             remoteView = RemoteViews(context.packageName, R.layout.notification_play)
-            remoteView.setOnClickPendingIntent(R.id.btn_play_notification, buildPendingIntent(PLAY, PLAY_ID))
+            remoteView.setOnClickPendingIntent(
+                R.id.btn_play_notification,
+                buildPendingIntent(PLAY, PLAY_ID)
+            )
         } else {
             remoteView = RemoteViews(context.packageName, R.layout.notification_pause)
-            remoteView.setOnClickPendingIntent(R.id.btn_pause_notification, buildPendingIntent(PAUSE, PAUSE_ID))
+            remoteView.setOnClickPendingIntent(
+                R.id.btn_pause_notification,
+                buildPendingIntent(PAUSE, PAUSE_ID)
+            )
         }
 
         remoteView.setTextViewText(R.id.txt_current_music_notification, title)
         remoteView.setTextViewText(R.id.txt_duration_notification, time)
         remoteView.setImageViewResource(R.id.icon_player, iconResource)
-        remoteView.setOnClickPendingIntent(R.id.btn_next_notification, buildPendingIntent(NEXT, NEXT_ID))
-        remoteView.setOnClickPendingIntent(R.id.btn_prev_notification, buildPendingIntent(PREVIOUS, PREVIOUS_ID))
+        remoteView.setOnClickPendingIntent(
+            R.id.btn_next_notification,
+            buildPendingIntent(NEXT, NEXT_ID)
+        )
+        remoteView.setOnClickPendingIntent(
+            R.id.btn_prev_notification,
+            buildPendingIntent(PREVIOUS, PREVIOUS_ID)
+        )
 
         return remoteView
     }
 
     private fun buildPendingIntent(action: String, id: Int): PendingIntent {
-        val playIntent = Intent(context.applicationContext, JcPlayerNotificationReceiver::class.java)
+        val playIntent =
+            Intent(context.applicationContext, JcPlayerNotificationReceiver::class.java)
         playIntent.putExtra(ACTION, action)
 
-        return PendingIntent.getBroadcast(context.applicationContext, id, playIntent, PendingIntent.FLAG_UPDATE_CURRENT)
+        return PendingIntent.getBroadcast(
+            context.applicationContext,
+            id,
+            playIntent,
+            PendingIntent.FLAG_MUTABLE
+        )
     }
 
     override fun onPreparedAudio(status: JcStatus) {
@@ -167,4 +197,13 @@ class JcNotificationPlayer private constructor(private val context: Context) : J
     override fun onJcpError(throwable: Throwable) {
 
     }
+
+
+    fun getPendingIntent() {
+        // if (Build.VERSION.SdkInt >= android.os.Build.VERSION_CODES.){
+
+        //}
+
+    }
+
 }

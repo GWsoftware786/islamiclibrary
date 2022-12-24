@@ -2,7 +2,7 @@ package com.example.jean.jcplayer.model
 
 import android.os.Parcel
 import android.os.Parcelable
-import android.support.annotation.RawRes
+import androidx.annotation.RawRes
 import com.example.jean.jcplayer.general.Origin
 
 
@@ -12,18 +12,18 @@ import com.example.jean.jcplayer.general.Origin
  * @date 27/06/16.
  * Jesus loves you.
  */
-data class JcAudio constructor(
-        var title: String,
-        var position: Int? = -1,
-        val path: String,
-        val origin: Origin
+data class JcAudio(
+    var title: String?,
+    var position: Int? = -1,
+    val path: String?,
+    val origin: Origin
 ) : Parcelable {
 
     constructor(source: Parcel) : this(
             source.readString(),
             source.readValue(Int::class.java.classLoader) as Int?,
             source.readString(),
-            Origin.valueOf(source.readString())
+            Origin.valueOf(source.readString()!!)
     )
 
     override fun describeContents() = 0

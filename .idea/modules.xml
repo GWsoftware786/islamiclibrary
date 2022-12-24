@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/islamiclibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/islamiclibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/islamiclibrary.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/jcplayer/islamiclibrary.jcplayer.unitTest.iml" />
+    </modules>
+  </component>
+</project>

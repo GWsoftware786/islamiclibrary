@@ -95,7 +95,7 @@ class JcPlayerService : Service(), MediaPlayer.OnPreparedListener, MediaPlayer.O
 
 
                             jcAudio.origin == Origin.ASSETS -> {
-                                assetFileDescriptor = applicationContext.assets.openFd(jcAudio.path)
+                                assetFileDescriptor = applicationContext.assets.openFd(jcAudio.path!!)
                                         .also { descriptor ->
                                             it.setDataSource(
                                                     descriptor.fileDescriptor,
@@ -125,7 +125,7 @@ class JcPlayerService : Service(), MediaPlayer.OnPreparedListener, MediaPlayer.O
                 e.printStackTrace()
             }
         } else {
-            throwError(jcAudio.path, jcAudio.origin)
+            throwError(jcAudio.path!!, jcAudio.origin)
         }
 
         return status
@@ -246,9 +246,9 @@ class JcPlayerService : Service(), MediaPlayer.OnPreparedListener, MediaPlayer.O
         }.start()
     }
 
-    private fun isAudioFileValid(path: String, origin: Origin): Boolean {
+    private fun isAudioFileValid(path: String?, origin: Origin): Boolean {
         when (origin) {
-            Origin.URL -> return path.startsWith("http") || path.startsWith("https")
+            Origin.URL -> return path!!.startsWith("http") || path.startsWith("https")
 
             Origin.RAW -> {
                 assetFileDescriptor = null
@@ -259,7 +259,7 @@ class JcPlayerService : Service(), MediaPlayer.OnPreparedListener, MediaPlayer.O
 
             Origin.ASSETS -> return try {
                 assetFileDescriptor = null
-                assetFileDescriptor = applicationContext.assets.openFd(path)
+                assetFileDescriptor = applicationContext.assets.openFd(path!!)
                 assetFileDescriptor != null
             } catch (e: IOException) {
                 e.printStackTrace() //TODO: need to give user more readable error.
