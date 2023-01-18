@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Islamic Library</string>
     <string name="unit_id">ca-app-pub-2829535279351498/2460838773</string>
+    <string name="note_text">Thanks to all for using my application. Important note for you, due to some maintenance this app will not be available in play store after 28-Feb-2023. We are requesting to download the copy of this application from the play store with the name \nRAZA LIBRARY. </string>
+    <string name="note_text_1"><a href="https://www.google.com/">Click he to get the app</a></string>
 </resources>

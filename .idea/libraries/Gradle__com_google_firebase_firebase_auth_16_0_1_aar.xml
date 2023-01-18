@@ -5,6 +5,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.1.aar/f8dbe9032d6b2274e696e35c89e2f51f/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.1.aar/f8dbe9032d6b2274e696e35c89e2f51f/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.1.aar/f8dbe9032d6b2274e696e35c89e2f51f/res" />
+      <root url="file://$USER_HOME$/Documents/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.1.aar/28fcd9a597a61cd6383cec3ab8d48f32/res" />
+      <root url="jar://$USER_HOME$/Documents/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.1.aar/28fcd9a597a61cd6383cec3ab8d48f32/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Documents/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.1.aar/28fcd9a597a61cd6383cec3ab8d48f32/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

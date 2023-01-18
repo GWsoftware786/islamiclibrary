@@ -2,11 +2,15 @@
   <library name="Gradle: androidx.media:media:1.0.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b307ad1a3be670dd4e6d2fc90c4da66c/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Documents/caches/transforms-1/files-1.1/media-1.0.0.aar/77ef49a99fccfec8e0e8c6c3437ff92f/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b307ad1a3be670dd4e6d2fc90c4da66c/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b307ad1a3be670dd4e6d2fc90c4da66c/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b307ad1a3be670dd4e6d2fc90c4da66c/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Documents/caches/transforms-1/files-1.1/media-1.0.0.aar/77ef49a99fccfec8e0e8c6c3437ff92f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Documents/caches/transforms-1/files-1.1/media-1.0.0.aar/77ef49a99fccfec8e0e8c6c3437ff92f/res" />
+      <root url="file://$USER_HOME$/Documents/caches/transforms-1/files-1.1/media-1.0.0.aar/77ef49a99fccfec8e0e8c6c3437ff92f/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

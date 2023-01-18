@@ -128,7 +128,7 @@ public class Utils {
     }
 
     public static void loadAdView(Context context, AdView adView) {
-        MobileAds.initialize(context, "ca-app-pub-2829535279351498~4257050451");
+       // MobileAds.initialize(context, "ca-app-pub-2829535279351498~4257050451");
         String android_id = Settings.Secure.getString(context.getContentResolver(), Settings.Secure.ANDROID_ID);
         AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)

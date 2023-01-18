@@ -15,7 +15,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".activity.HamaraIslamActivity"></activity>
+        <activity
+            android:name=".activity.NoteActivity"
+            android:exported="false" />
+        <activity android:name=".activity.HamaraIslamActivity" />
         <activity android:name=".activity.QuranActivity" />
 
         <meta-data
@@ -25,7 +28,8 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".activity.PdfViewActivity" />
         <activity android:name=".activity.BooksListActivity" />
-        <activity android:name=".activity.SplashActivity"
+        <activity
+            android:name=".activity.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,7 +37,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
     </application>
 
 </manifest>

@@ -11,10 +11,6 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.PowerManager;
-import androidx.annotation.NonNull;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
-import androidx.fragment.app.Fragment;
-import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.MenuItem;
@@ -22,8 +18,13 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+
 import com.firebase.ui.database.BuildConfig;
 import com.google.android.gms.ads.AdView;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -32,6 +33,7 @@ import com.google.firebase.database.ValueEventListener;
 import com.google.gson.Gson;
 import com.gwsoftware.alahazratkakalam.activity.BooksListActivity;
 import com.gwsoftware.alahazratkakalam.activity.HamaraIslamActivity;
+import com.gwsoftware.alahazratkakalam.activity.NoteActivity;
 import com.gwsoftware.alahazratkakalam.activity.QuranActivity;
 import com.gwsoftware.alahazratkakalam.adapter.MyListAdapter;
 import com.gwsoftware.alahazratkakalam.asyncktask.GetNewVersionCode;
@@ -237,11 +239,15 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
                 break;
             case "Naats":
                 Intent naatsIntent = new Intent(MainActivity.this, HamaraIslamActivity.class);
-                naatsIntent.putExtra("category",Constants.NAATS);
+                naatsIntent.putExtra("category", Constants.NAATS);
                 startActivity(naatsIntent);
                 break;
+            case "Note":
+                Intent noteIntent = new Intent(MainActivity.this, NoteActivity.class);
+                startActivity(noteIntent);
+                break;
             default:
-                Utils.showAlert(this, "Comming Soon...", null, false, "Ok");
+                Utils.showAlert(this, "Please update the app...", null, false, "Ok");
                 break;
         }
 

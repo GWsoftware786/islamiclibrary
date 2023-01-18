@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/ec9e895d121f6e40608733bb2a1f7d5e/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/ec9e895d121f6e40608733bb2a1f7d5e/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/ec9e895d121f6e40608733bb2a1f7d5e/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Documents/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/2c90bca73dd5649d707e2f18a196faa5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Documents/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/2c90bca73dd5649d707e2f18a196faa5/res" />
+      <root url="jar://$USER_HOME$/Documents/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/2c90bca73dd5649d707e2f18a196faa5/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.NoteActivity">
+
+    <TextView
+        android:id="@+id/note_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:gravity="center_horizontal"
+        android:text="Assalamualikum"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/note_text_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/note_text"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="17dp"
+        android:text="@string/note_text"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/note_text_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/note_text_1"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="17dp"
+        android:autoLink="web"
+        android:padding="10dp"
+        android:visibility="gone"
+        android:gravity="center_horizontal"
+        android:linksClickable="true"
+        android:text="@string/note_text_1"
+        android:textSize="20dp" />
+
+</RelativeLayout>
