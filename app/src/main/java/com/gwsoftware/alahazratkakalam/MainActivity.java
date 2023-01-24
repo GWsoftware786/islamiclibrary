@@ -43,6 +43,7 @@ import com.gwsoftware.alahazratkakalam.interfaces.AlertCallback;
 import com.gwsoftware.alahazratkakalam.interfaces.recyclerViewCallback;
 import com.gwsoftware.alahazratkakalam.models.DataObjectModel;
 import com.gwsoftware.alahazratkakalam.utils.AhApplication;
+import com.gwsoftware.alahazratkakalam.utils.AppUpdate;
 import com.gwsoftware.alahazratkakalam.utils.Constants;
 import com.gwsoftware.alahazratkakalam.utils.Utils;
 
@@ -75,7 +76,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         navigation.setOnNavigationItemSelectedListener(MainActivity.this);
         adView = findViewById(R.id.adView);
         Utils.loadAdView(this, adView);
-
+        new AppUpdate().checkAppUpdate(this);
 
 
 
@@ -245,6 +246,19 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
             case "Note":
                 Intent noteIntent = new Intent(MainActivity.this, NoteActivity.class);
                 startActivity(noteIntent);
+                break;
+            case "Speeches":
+                Utils.showAlert(this, "Please download the new application to get this", new AlertCallback() {
+                    @Override
+                    public void alertCallback(boolean value) {
+                        final String appPackageName = "com.mfsoftware.alahazratkakalam"; // getPackageName() from Context or Activity object
+                        try {
+                            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
+                        } catch (android.content.ActivityNotFoundException anfe) {
+                            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + appPackageName)));
+                        }
+                    }
+                }, false, "Download new App");
                 break;
             default:
                 Utils.showAlert(this, "Please update the app...", null, false, "Ok");
